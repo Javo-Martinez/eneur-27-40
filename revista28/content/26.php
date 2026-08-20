@@ -1,0 +1,9 @@
+<p>De vez en cuando haces silencio y dejas que  las gaviotas rumoreen sobre tus barrios. Las escucho en un aire impoluto y  siento que el mar sube por tus cerros y te baña con sus voces. </p>
+<p>Tienes  la presencia eterna de grandes poetas que te habitan fantasmales, en piedras y  faroles. Eres la artesanía perfecta de la costa. Por eso no hay otra como tú.  Aunque busque tu Pacífico mar en otras orillas, sólo el tuyo bulle aferrado  religiosamente a tu tierra.</p>
+<p>Valparaíso,  que ruedas cerro abajo impulsada por tu soledad de verde y piedra. Un manto de  paz te oculta del mundo. Un puerto famélico te espía avergonzado. Surges como  mascarón de proa, enclavada en tu triste altura. Desde el cielo eres temible,  pero tu corazón laberíntico se derrumba y se hace escombro en los ascensores de  tus cerros. Te vistes como ciudad, pero bajo el viento, en tus esquinas, se  escriben barrios de perlas. Sobre tu adobe cansado se pintan sabias letanías de  viajes vagabundos y se hacen sencillas las pisadas de la tierra. </p>
+<p>A  veces gritas, con ese aliento telúrico que recorre los caprichos de la muerte. Tiemblas y haces de tu poesía una queja ronca y solitaria. Te levantas  furiosa, pero sin soberbia. Tocas la panza de la luna y bajas. Ofreces auroras  bajo soles que te temen. Eres niña y profeta. Tu voz poética es ese temblor  intermitente.  </p>
+<p>Con la humildad de tus días robaste mi asombro de  mujer Atlántica, y sedujiste a esos que te quieren en tristezas, en grietas de  pasados y presentes, con indefensión simpática y pesada.</p>
+<p>Cuando sonríes también sueñas; y rompes el lento andar  de la pobreza que te camina dejando huellas de sal y cobre. Le enseñas al  extranjero el don inadvertido del cielo; ese que es tuyo y que se expande desde  el centro mismo de tu preñez americana.   </p>
+<p>Valparaíso te recuerdo. Y recordarte es penar. </p>
+<p>Es la pesadilla de hacer de tu silencio <br />
+  un rumor sombrío de palabras. </p>

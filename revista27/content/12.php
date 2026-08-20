@@ -1,0 +1,8 @@
+	<p><strong>Marian Raméntol </strong>es poeta y directora de la revista cultural La Náusea. <strong>Jaume Vendrell Ginel</strong> trabaja con la poética de la palabra y la de la plástica. <strong>Cesc Fortuny i Fabré</strong> le agrega a esas formas de expresión una nutrida producción musical. Todos ellos catalanes, todos nacidos en la ciudad de Barcelona. Juntos armaron un colectivo creativo al que llamaron <strong>Oxímoron</strong> y que, según cuenta la leyenda, había visto la luz algunos años antes de ser bautizado. Si con el nombre se apela a conceptos opuestos que generan un nuevo sentido, el producto de ese encuentro es música y palabras que se articulan y en el que, no siendo precisamente un canto, la poesía dicha es la chispa que abre el fuego de la novedad: una forma precisa de decir lo que se quiere decir. Poniéndole el oído, parece que no habría otro modo mejor de transmitir lo que la palabra <em>blues</em> resume: lo azul, lo triste, lo sexual que roza lo pornográfico.
+
+  <em>Bluesía</em> es el primer fruto registrado del trío, en el cual tanto la palabra como la música toman riesgos y aceptan desafíos. </p>
+<p>Un sonido para la road movie, con algunas resonancias al Ry Cooder de <em>París, Texas</em>; metálicos slides, diáfanas escalas; texturas de desierto. Las voces de <strong>Raméntol</strong> y <strong>Vendrell</strong> se entreveran en ellos de una forma decidida, con punch, para tejer unos textos duros, con destellos de oscuridad que le hacen honor al nombre del trío y que, sin duda, seguirá siendo una de las marcas registradas de sus futuras aventuras sonoras y  expediciones poéticas.
+  
+  
+</p>
+<p>&nbsp;</p>

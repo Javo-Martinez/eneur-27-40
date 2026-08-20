@@ -1,0 +1,4 @@
+<p>
+    Editado en 1982 por el sello Capitol, Computer Games es el primer disco solista de George Clinton. Con su característica potencia, explota en el disco la mejor proporción de los elementos musicales de Funkadelic y Parliament y los tamiza con los sonidos que por entonces estaban a la vanguardia de la música dance. Con esos ingredientes modeló un disco que lo volvió a ubicar en altos niveles de popularidad y que influyó, como pocos en el imaginario de las nuevas generaciones de músicos negros que fueron los pilares del hip-hop. Prueba de ello son los samples de Atomic Dog que MC Hammer, Ice Cube, Snoop Doggy Dogg, Dr. Dre, 2Pac Shakur, Public Enemy y Redman, entre otros, hicieron suyos.
+</p>
+            
