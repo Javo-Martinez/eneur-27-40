@@ -1,0 +1,5 @@
+<p>Después de que el golpe inicial de las fotos callejeras de  Matt Stuart ha pasado, puede despuntar la pregunta acerca del cómo logra  capturar esos momentos en que las superposiciones de imágenes crean un instante  narrativo tan particular. Es el mismo fotógrafo el que en sus propias palabras  da la pista: &ldquo;Compre un buen par de zapatos cómodos, tenga una cámara alrededor  de su cuello en todo momento, mantenga los codos pegados al  cuerpo, sea paciente, optimista y no olvide  sonreír&rdquo;. Con esa sencilla fórmula logra introducirnos en un mundo simbólico en  el que la esencia de la fotografía se impone al aluvión tecnológico: el recorte  del ojo avizor le gana por goleada al efecto digital. Y es más: lo desafía en  su propio terreno, allí donde la edición y el montaje podrían lograr un  resultado similar en base a un banco de imágenes, Stuart necesita sólo del  instante preciso y la ubicación adecuada; un único click que narra esa  condensación fabulosa que la buena fotografía se jacta de captar.</p>
+<p>  <strong>Matt Stuart</strong>.  Harrow, Londres, 1974.</p>
+<p>&nbsp;</p>
+
+<? include('stuart/index.php'); ?>

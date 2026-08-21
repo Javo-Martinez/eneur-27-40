@@ -1,0 +1,4 @@
+<p>Hastiados de tanto <em>trending topic</em> que puebla nuestras  pixeladas páginas, y también de nuestra propia celebridad, Esto No Es Una Revista no tiene ningún  pudor en bajar al ruedo del amateurismo y abrir sus puertas a desconocidos pero  no por ello ignotos aficionados al coso de la fotografía. A la sazón amigos de  la casa, el mediocampo formado por Singer, Feijóo y Martínez apunta pinceladas sobre  el inefable telón de fondo: dónde poner el ojo para mirar el magma en una época  en la que el ojo parece estar puesto en todo menos en el magma. No nos asusta  el acertijo.</p>
+<?
+	include('amateurs/index.php');
+?>

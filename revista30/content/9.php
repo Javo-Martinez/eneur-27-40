@@ -1,0 +1,9 @@
+<p>Pinheiros es un barrio colonial paulista, nacido y criado a  la vera del río homónimo que, en los fondos de un estacionamiento, alberga uno  de los sitios más interesantes para escuchar jazz. Sólo basta recorrer las  programaciones futuras y pasadas para no tener dudas al respecto. A esa suerte  de tugurio que remeda un <em>speakeasy</em>, los establecimientos en los que se vendía  ilegalmente alcohol durante la Ley Seca estadounidense, llegó el trompetista  suizo <strong>Peter Schärli</strong>, uno de los más interesantes que ha dado el jazz de las  últimas décadas. <br />
+  <br />
+Los aires brasileños le sientan bien. Convocado para grabar por  el percusionista Dom Um Romão, quien formó parte de la mítica banda Weather  Report, conoció a Ithamara Koorax, con quien grabaría el bello <em>O Grande Amor</em>.  En el <em>intermezzo</em> entre ambos discos, se apersonó en el tugurio de marras y su  performance, basada en la improvisación, quedó registrada en una consola que  trasladó su contenido a un soporte transportable y la grabación comenzó a circular.  Lejos de los primitivos bootlegs en los que los ruidos ambientes, las toses y las  frituras hacían imposible una buena escucha, esta grabación de <strong>Schärli</strong> sorprende por su calidad. Como si hubiera sido registrada para ser un disco en vivo  que nunca vio la luz, condenada a una travesía más tortuosa y clandestina.  Acompañado por los músicos locales Hércules Gomes (piano), Luiz André &ldquo;Deco&rdquo; (contrabaixo)  y Paulinho Alves (batería), Schärli aglutina, en 9 temas, climas y colores con  los que construye un disco tan nonato como sólido y recomendable para escuchar. Y abre las puertas de la intrigan que, seguramente a muchos, los moverá a bucear en su prolífera y esquiva producción musical.</p>
+
+<p><strong>Jazz nos fundos</strong> <br />
+  João Moura, 1076, Pinheiros <br />
+  São Paulo - Brasil <br />
+  (+55 11) 30835975 <br />
+</p>

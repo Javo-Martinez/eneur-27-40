@@ -1,0 +1,4 @@
+<p>Creo  que la paranoia, en algunos aspectos, es la evolución en los tiempos modernos  de un antiguo y arcaico sentido que los animales de presa todavía poseen: un  sentido que les advierte de que están siendo observados... Estoy diciendo que  la paranoia es un sentido atávico. Es un sentido persistente, que tuvimos hace  mucho tiempo, cuando éramos, o nuestros antepasados eran, muy vulnerables a los  depredadores, y este sentido les advertía de que estaban siendo observados. Y  eran observados por algo que, probablemente, iba a atacarles...</p>
+<p>Mis  personajes poseen a menudo este sentido.</p>
+<p>Pero lo  que en realidad he hecho ha sido transformar su sociedad en atávica. Aunque  situada en el futuro, viven en muchos sentidos... Sus vidas poseen algo de  retrógrado. Viven como nuestros antepasados. Es decir, tanto las máquinas como  los escenarios son futuristas, pero las situaciones provienen del pasado.</p>
+<p>Philip  K. Dick en una entrevista (1974)</p>

@@ -1,0 +1,5 @@
+<p>Si  el final del lado A del long play <em>The  Dark Side of the Moon</em> nos ponía los pelos de punta con los coros de Clare  Torry, el comienzo del lado B necesitaba de un puntapié que hiciera volar  pelucas por el aire. Y en los inicios fue el sonido de las monedas y cajas  registradoras que se entramaban con el bajo de Waters. Un inolvidable comienzo  para abordar el otro lado de uno de los mejores discos de la historia de Pink  Floyd y, por qué no, del rock en general.</p>
+<p>Lo  que el dinero provoca es la esencia de este clásico. Que se aleje, que vuelva,  que es un crimen, los sueños que fomenta, compartir siempre y cuando no se  trate de la porción de torta que a uno le ha tocado en suerte, lo que se puede  comprar… Todo lo que se puede comprar, sea material o inmaterial está trazado  en una pieza original de 6 minutos y 24 segundos. Un lapso de tiempo que  discurre y se va, dejando su huella en cada quien, pero que no puede detenerse  ni siquiera con todas las monedas que puedan sonar. </p>
+
+<iframe width="770" height="580" src="//www.youtube.com/embed/H4gl14k9oV0?rel=0" frameborder="0" allowfullscreen></iframe>
+<p>&nbsp;</p>

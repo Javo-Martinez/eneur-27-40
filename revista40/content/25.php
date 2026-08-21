@@ -1,0 +1,11 @@
+<p>Correr la veladura de la razón para entrar en el campo  onírico. Ese desvelo que pende del instante o momento previo a conciliar el  sueño. La mente se explaya diletante y vaga por todas las imágenes que se  destacan con la mirada en el plano inclinado del techo al alzar la vista. Un  paneo por ese horizonte difuso que se recorre con ojos entrecerrados.<br />
+  <br />
+  Imágenes desacatadas del mundo ordinario, imágenes de  cuentos de fantasías que ordenan esa naturaleza incierta de lo desconocido. Las  escenas de ángeles y demonios, alimañas y bichitos de la suerte, conviviendo  armónicamente en el entretejido que conforma la sustancia de la madera.<br />
+  <br />
+  Sin ton ni son, los pensamientos circulan aleatoriamente,  con rumbo fortuito. Según sea la cosa, los enigmas a develar y el espíritu  imperante en nuestro ser son diversos; cabe interpretar esas escenas de  líquenes, plantas exóticas y animales imaginarios conforme el sentir del  momento. Se hacen patentes los mensajes que surgen entre las nervaduras de la  madera.<br />
+  <br />
+  Sueño y vigilia se entremezclan en tiempos pretéritos y  futuros que se materializan convocados por el devaneo mental. Dolores antiguos,  viejos pesares, se intercalan con instantes de fulgurosa felicidad en esa marea  flotante del espíritu. El mar insondable del pensar y sentir esas derivas  imaginarias o ciertas del camino vital ya recorrido, y el del enigmático  porvenir, ingresan como oleaje esquivo y persistente.<br />
+  <br />
+  Aquí, en este cuarto, los dibujos en la madera que recubre  el techo de la habitación son ricos motivantes para despertar ensoñaciones. Ese  horizonte que porta color de cálida materia orgánica, orbita como testigo mudo  y a la vez elocuente de las vivencias del habitante despierto o durmiente,  recostado en la cama que domina el espacio. Presencia palpable de imágenes que  observan calladamente  el desarrollo de  la escena viviente.<br />
+  <br />
+  Allí, el amor y el desamor se dieron cita puntualmente,  transformando el escenario alternadamente en siniestro o feliz. La riqueza de  la vida transita en este ámbito cotidiano tan familiar donde se respira la  presencia del habitante en la morada que le procura reposo.</p>

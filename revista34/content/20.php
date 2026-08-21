@@ -1,0 +1,22 @@
+<p>La exposición &ldquo;El Teatro de la Pintura&rdquo; y la muestra de la  donación Ferrari comparten el espacio del Museo de Arte Moderno en su renovada  arquitectura, que fue inaugurada en 2010. Se pueden apreciar allí estas dos  propuestas de sumo interés, diversas y abundantes, que subrayan la vitalidad de  la escena contemporánea.</p>
+<p><strong>El inefable LEÓN se  inscribe con mayúsculas</strong><br />
+La familia de León Ferrari donó al MAMBA numerosas piezas  del legado del artista —fallecido hace poco más de un año—, que se ofrecen en  exhibición junto con obras de la colección, presentando un panorama nutrido y con  cuidado montaje. La exposición da cuenta de la vastísima producción de un artista  polifacético, cuyo trabajo atraviesa varias décadas de búsqueda incesante en el  sendero creativo.</p>
+<p>Ferrari participó en fuertes movidas artísticas, como &ldquo;Tucumán  Arde&rdquo; en los calientes años de finales de la década de los sesenta, cuando la  dictadura de Onganía sacudía nuestro país y la palabra Vietman portaba sangre.  Su emblemática obra &ldquo;La civilización occidental y cristiana&rdquo; expresa cabalmente  su discurso político.</p>
+<p>La imagen impresa del Juicio Final de Miguel Ángel cubierta  de caca de palomas conlleva una crítica a la santa Iglesia católica pero  también a la institución arte, ya que propone un quiebre a la representación  consagrada de las Bellas Artes, en un acto irreverente y subversivo respecto de  la tradición artística. </p>
+<p>Su controversial muestra en el Centro Cultural Recoleta allá  en 2004 —con curaduría de Andrea Giunta— sufrió destrozos y clausuras a  instancias de la Iglesia católica y sectores acólitos; originó una causa  judicial y su cierre prematuro que fue revocado posteriormente por orden  judicial. La censura impuesta a la exposición fue ampliamente repudiada y suscitó  movilizaciones populares que exigían el cese de la medida y solicitadas que denunciaron  el caso.</p>
+<p>Artista polémico y multifacético en sus producciones, fue premiado  en la Bienal de Venecia de 2007, donde obtuvo el León de Oro —justo a su medida—  y galardonado en 2012 con el premio Konex de Brillante, entre otras  distinciones recibidas a lo largo de su extensa trayectoria. Fue un explorador  del arte y es relevante su impacto en el terreno extraartístico, que expandió  sus sentidos en múltiples direcciones. La exposición &ldquo;La donación León Ferrari&rdquo;  es representativa del lugar protagónico de este prolífico artista en el campo  del arte argentino contemporáneo.</p>
+<p>&nbsp;</p>
+<?
+	include('mamba/mamba1.html');
+?>
+<p>&nbsp;</p>
+<p><strong>&ldquo;El Teatro de la  Pintura. Artistas Argentinos en diálogo con Sonia Delaunay&rdquo;</strong></p>
+<p>La propuesta expositiva gira en torno a la figura de Sonia  Delaunay (1885-1979), delineando, a partir de su obra, diversas relaciones con  un conjunto de artistas argentinos modernos y contemporáneos identificados con  la abstracción geométrica. Nacida en Gradisk (Ucrania), como Sarah Sophie Stern  Terk, expandió el campo de la pintura incorporando el diseño de moda, tramas  textiles, escenografías para cine y teatro, y diversos objetos ornamentales  como lámparas o mayólicas, entre otras variantes de las artes aplicadas. </p>
+<p>Se presentan dos pinturas de pequeño formato realizadas por  la artista en 1950 y 1962 —pertenecientes a la colección del MAMBA— en diálogo  con las producciones de 22 artistas locales, muchos de los cuales constituyen  un referente ineludible para el arte argentino de los años noventa, como Jorge  Gumier Maier, Cristina Schiavi, Alfredo Londaibere, Graciela Hasper, Magdalena  Jitrik, Sergio Avello.</p>
+<p>La curadora de la muestra, Jimena Ferreiro —quien coordina  el Departamento de curaduría del MAMBA—, refiere que la obra de Delaunay  &ldquo;funciona como un imán y como fuerza centrípeta a la vez, capaz de reunir una  constelación de obras modernas y contemporáneas que ponen en escena una  vastísima y rica tradición local&rdquo;.</p>
+<p>El lenguaje de la forma y el color es protagonista de esta  muestra, donde el teatro resulta, según lo afirma Ferreiro, &ldquo;una imagen  productiva a la que recurrimos para dar cuenta del desplazamiento de la pintura  contemporánea de su centro hacia otras prácticas del hacer…&rdquo;, subrayando a su  vez &ldquo;la fuerza inagotable de la pintura&rdquo;.</p>
+<p>&nbsp;</p>
+<?
+	include('mamba/mamba2.html');
+?>
+<p>&nbsp;</p>

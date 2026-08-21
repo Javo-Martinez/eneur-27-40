@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    
+    <!-- Magnific Popup core CSS file -->
+    <link rel="stylesheet" href="slider/dist/magnific-popup.css"> 
+    
+    <!-- jQuery 1.7.2+ or Zepto.js 1.0+ -->
+    <script src="js/jquery-1.11.0.min.js"></script>
+    
+    <!-- Magnific Popup core JS file -->
+    <script src="slider/dist/jquery.magnific-popup.js"></script> 
+    
+
+</head>
+<body>
+
+
+    <div class="popup-gallery">
+    
+        <a href="greco/01.jpg" title="La curación del ciego (1567) | Gemäldegalerie (Dresde) "><img src="greco/01.jpg" width="75" height="75"></a>
+        <a href="greco/02.jpg" title="La última cena (1568) | Pinacoteca Nazionale (Bolonia) "><img src="greco/02.jpg" width="75" height="75"></a>
+        <a href="greco/03.jpg" title="El entierro de Cristo (1569-1570) | Museo Alexandros Soutzos (Atenas) "><img src="greco/03.jpg" width="75" height="75"></a>
+        <a href="greco/04.jpg" title="La anunciación (1570) | Museo del Prado (Madrid) "><img src="greco/04.jpg" width="75" height="75"></a>
+        <a href="greco/05.jpg" title="La piedad (1571-1576) | Museo de Arte (Filadelfia) "><img src="greco/05.jpg" width="75" height="75"></a>
+        <a href="greco/06.jpg" title="El martirio de san Sebastián (1577-1578) | Catedral (Palencia) "><img src="greco/06.jpg" width="75" height="75"></a>
+        <a href="greco/07.jpg" title="El caballero de la mano en el pecho (1580) | Museo del Prado (Madrid)"><img src="greco/07.jpg" width="75" height="75"></a>
+        <a href="greco/08.jpg" title="La fábula (1580) | Museo del Prado (Madrid) "><img src="greco/08.jpg" width="75" height="75"></a>
+        <a href="greco/09.jpg" title="El entierro del Conde de Orgaz (1586-1588) | Iglesia de Santo Tomé (Toledo) "><img src="greco/09.jpg" width="75" height="75"></a>
+        <a href="greco/10.jpg" title="Retrato de caballero anciano (1587-1600) | Museo del Prado (Madrid) "><img src="greco/10.jpg" width="75" height="75"></a>
+        <a href="greco/11.jpg" title="La sagrada familia (1595) | Hospital de Tavera (Toledo) "><img src="greco/11.jpg" width="75" height="75"></a>
+        <a href="greco/12.jpg" title="Supuesto autorretrato (1595-1600) | Museo Metropolitano de Arte (Nueva York) "><img src="greco/12.jpg" width="75" height="75"></a>
+        <a href="greco/13.jpg" title="Retrato de un fraile (1600-1605) | Museo del Prado (Madrid) "><img src="greco/13.jpg" width="75" height="75"></a>
+        <a href="greco/14.jpg" title="Laocoonte (1610-1614) | Galería Nacional de Arte (Washington D. C.) "><img src="greco/14.jpg" width="75" height="75"></a>
+        <a href="greco/15.jpg" title="San Francisco de Asís y el hermano León (1600-1614) | Museo del Prado (Madrid) "><img src="greco/15.jpg" width="75" height="75"></a>
+        <a href="greco/16.jpg" title="Vista de Toledo (1604-1614) | Museo Metropolitano de Arte (Nueva York) "><img src="greco/16.jpg" width="75" height="75"></a>
+        <a href="greco/17.jpg" title="La visión del Apocalipsis (1609-1614) | Museo Metropolitano de Arte (Nueva York)"><img src="greco/17.jpg" width="75" height="75"></a>
+        <a href="greco/18.jpg" title="Retrato del cardenal Tavera (1609-1614) | Hospital de Tavera (Toledo) "><img src="greco/18.jpg" width="75" height="75"></a>
+        <a href="greco/19.jpg" title="Concierto de ángeles (1610) | Pinaconeta Nacional (Atenas) "><img src="greco/19.jpg" width="75" height="75"></a>
+        <a href="greco/20.jpg" title="Vista y plano de Toledo (1610) | Museo de El Greco (Toledo) "><img src="greco/20.jpg" width="75" height="75"></a>
+        <a href="greco/21.jpg" title="El apóstol Santiago el Menor (1610-1614) | Museo de El Greco (Toledo) "><img src="greco/21.jpg" width="75" height="75"></a>
+        <a href="greco/22.jpg" title="Santo Domingo rezando (c. 1600) | Colección Gustav Rau"><img src="greco/22.jpg" width="75" height="75"></a>
+        
+        
+	</div>
+
+<script type="text/javascript">
+      $(document).ready(function() {
+        $('.popup-gallery').magnificPopup({
+          delegate: 'a',
+          type: 'image',
+          tLoading: 'Loading image #%curr%...',
+          mainClass: 'mfp-img-mobile',
+          gallery: {
+            enabled: true,
+            navigateByImgClick: true,
+            preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+          },
+          image: {
+            tError: '<a href="%url%">La imagen #%curr%</a> no pudo ser cargada.'/*,
+            titleSrc: function(item) {
+              return item.el.attr('title') + '<small><a href="http://www.estonoesunarevista.co">www.estonoesunarevista</a></small>';
+            }*/
+          }
+        });
+      });
+</script>
+
+
+</body>
+</html>

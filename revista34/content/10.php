@@ -1,0 +1,10 @@
+<p>Si algo ha logrado el trío  australiano <strong>Dirty Three</strong> es el haber  creado un sonido propio, distintivo, que se propone único y se sostiene de los  bordes del eclecticismo. El sonido de <strong>Horse  Stories</strong>, un disco que tiene sobre sus espaldas 18 años de edad, está lejos  de ser un lago diáfano y se acerca más a los ríos turbios del delta argentino,  aquellos en los que el fondo legamoso de arcilla es una mezcla de suavidad  tersa y ramas, mugres, texturas invisibles, riesgos de vidrios rotos; un agua  que puede tanto refrescar como entrar en torbellinos y corrientes traicioneras;  allí donde la tibieza y el frío gélido son capas y capas que nunca dejan de  andar.<br />
+  <br />
+Es claro que <strong>Dirty Three</strong> se ha propuesto explorar el sonido más allá del género  y que, inmerso en los océanos de <em>tags</em> del mundo contemporáneo, le esquiva a la precisión de cualquiera de ellos y se  visten con muchos a la vez. En la genética de la banda está la marca clara del  multiinstrumentista Warren Ellis, quien compartió y comparte las rutas  musicales australianas junto con uno de sus próceres, el señor Nick Cave, pues  ha sido uno de sus Bad Seeds y, a mediados de la década anterior, uno de los  socios fundadores de Grinderman.<br />
+<br />
+<strong>Horse Stories </strong>es una inquietante excursión por melodías que se  urden con melodías de baladas, cadencias de jazz, fraseos de música clásica y  distorsiones que destilan algunas gotas de <em>noise</em>.  Eso, claro, cuando el frenesí del post-rock no aparece como una crecida  inesperada que, a su paso veloz y jaquea la escucha con un ritmo arrollador.  Zonas oscuras, paseos inquietantes, bordes cortantes y unas irrefrenables ganas  de seguir buceando en el sonido de <strong>Dirty  Three </strong>es lo que provocan el violín de Ellis, la guitarra de Mick Turner y  la batería de Jim White; combinación de instrumentos que se escapa de la  tradicional formación de <em>power </em>trío  para demoler el concepto de <em>power </em>y  reinventarlo.<br />
+<br />
+<strong>Touch and Go Records<br />
+  1996</strong></p>
+<p><br />
+</p>

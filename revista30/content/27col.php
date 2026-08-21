@@ -1,0 +1,7 @@
+<p>Lo opuesto a la comida callejera es la comida casera, mucho  menos democrática pero en ocasiones igualmente barata y cómoda. Sirva de  muestra este guiso exprés de patatas en caldillo, plato de procedencia lejana y  de probable efecto antinavideño que puede abrir una de esas comidas que nunca  se harían a la intemperie o, ya más templadas las patatas, servir de aperitivo  de cualquier reunión.</p>
+<p>Ingredientes: Patatas, pimentón, comino, ajo, vinagre,  aceite de oliva, sal y agua.</p>
+<p>1. Se cortan las patatas como para tortilla pero algo más  gruesas, y se fríen de pocas en pocas para que queden sueltas. Cuando van  estando (no hace falta que se frían mucho), se van colocando en una cacerola  más bien plana. </p>
+<p>2. Mientras se van haciendo las patatas, ponemos en un  mortero ajo picado y comino y lo machacamos. Añadimos vinagre y un poco de  agua, y lo removemos bien.</p>
+<p>3. Cuando hemos terminado de freír las patatas, en parte del  aceite sobrante se rehoga un poco de pimentón (dulce o picante, a gusto), sin  que se queme, y se vierte sobre las patatas.</p>
+<p>4. Se añade el contenido del mortero a las patatas, se  agrega más de agua (que queden más bien caldosas) y se deja cociendo unos  minutos.</p>
+<p>La sal se puede poner mitad en las patatas al freírlas y mitad  en el mortero. El comino puede ser molido o en semillas, siendo en este caso  conveniente tostarlas un poco antes de machacarlas.</p>

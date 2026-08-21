@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    
+    <!-- Magnific Popup core CSS file -->
+    <link rel="stylesheet" href="slider/dist/magnific-popup.css"> 
+    
+    <!-- jQuery 1.7.2+ or Zepto.js 1.0+ -->
+    <script src="js/jquery-1.11.0.min.js"></script>
+    
+    <!-- Magnific Popup core JS file -->
+    <script src="slider/dist/jquery.magnific-popup.js"></script> 
+    
+
+</head>
+<body>
+
+
+    <div class="popup-gallery">
+    
+        <a href="granguerra/01.jpg" title=""><img src="granguerra/01.jpg" width="75" height="75"></a>
+        <a href="granguerra/02.jpg" title=""><img src="granguerra/02.jpg" width="75" height="75"></a>
+        <a href="granguerra/03.jpg" title=""><img src="granguerra/03.jpg" width="75" height="75"></a>
+        <a href="granguerra/04.jpg" title=""><img src="granguerra/04.jpg" width="75" height="75"></a>
+        <a href="granguerra/05.jpg" title=""><img src="granguerra/05.jpg" width="75" height="75"></a>
+        <a href="granguerra/06.jpg" title=""><img src="granguerra/06.jpg" width="75" height="75"></a>
+        <a href="granguerra/07.jpg" title=""><img src="granguerra/07.jpg" width="75" height="75"></a>
+        <a href="granguerra/08.jpg" title=""><img src="granguerra/08.jpg" width="75" height="75"></a>
+        <a href="granguerra/09.jpg" title=""><img src="granguerra/09.jpg" width="75" height="75"></a>
+        <a href="granguerra/10.jpg" title=""><img src="granguerra/10.jpg" width="75" height="75"></a>
+        <a href="granguerra/11.jpg" title=""><img src="granguerra/11.jpg" width="75" height="75"></a>
+        <a href="granguerra/12.jpg" title=""><img src="granguerra/12.jpg" width="75" height="75"></a>
+        <a href="granguerra/13.jpg" title=""><img src="granguerra/13.jpg" width="75" height="75"></a>
+        <a href="granguerra/14.jpg" title=""><img src="granguerra/14.jpg" width="75" height="75"></a>
+        <a href="granguerra/15.jpg" title=""><img src="granguerra/15.jpg" width="75" height="75"></a>
+        <a href="granguerra/16.jpg" title=""><img src="granguerra/16.jpg" width="75" height="75"></a>
+        <a href="granguerra/17.jpg" title=""><img src="granguerra/17.jpg" width="75" height="75"></a>
+        <a href="granguerra/18.jpg" title=""><img src="granguerra/18.jpg" width="75" height="75"></a>
+        <a href="granguerra/19.jpg" title=""><img src="granguerra/19.jpg" width="75" height="75"></a>
+        <a href="granguerra/20.jpg" title=""><img src="granguerra/20.jpg" width="75" height="75"></a>
+        <a href="granguerra/21.jpg" title=""><img src="granguerra/21.jpg" width="75" height="75"></a>
+        <a href="granguerra/22.jpg" title=""><img src="granguerra/22.jpg" width="75" height="75"></a>
+        <a href="granguerra/23.jpg" title=""><img src="granguerra/23.jpg" width="75" height="75"></a>
+        <a href="granguerra/24.jpg" title=""><img src="granguerra/24.jpg" width="75" height="75"></a>
+        <a href="granguerra/25.jpg" title=""><img src="granguerra/25.jpg" width="75" height="75"></a>
+        <a href="granguerra/26.jpg" title=""><img src="granguerra/26.jpg" width="75" height="75"></a>
+        <a href="granguerra/27.jpg" title=""><img src="granguerra/27.jpg" width="75" height="75"></a>
+        <a href="granguerra/28.jpg" title=""><img src="granguerra/28.jpg" width="75" height="75"></a>
+        <a href="granguerra/29.jpg" title=""><img src="granguerra/29.jpg" width="75" height="75"></a>
+        <a href="granguerra/30.jpg" title=""><img src="granguerra/30.jpg" width="75" height="75"></a>
+        <a href="granguerra/31.jpg" title=""><img src="granguerra/31.jpg" width="75" height="75"></a>
+        <a href="granguerra/32.jpg" title=""><img src="granguerra/32.jpg" width="75" height="75"></a>
+        <a href="granguerra/33.jpg" title=""><img src="granguerra/33.jpg" width="75" height="75"></a>
+        <a href="granguerra/34.jpg" title=""><img src="granguerra/34.jpg" width="75" height="75"></a>
+        <a href="granguerra/35.jpg" title=""><img src="granguerra/35.jpg" width="75" height="75"></a>
+        <a href="granguerra/36.jpg" title=""><img src="granguerra/36.jpg" width="75" height="75"></a>
+        <a href="granguerra/37.jpg" title=""><img src="granguerra/37.jpg" width="75" height="75"></a>
+        <a href="granguerra/38.jpg" title=""><img src="granguerra/38.jpg" width="75" height="75"></a>
+        <a href="granguerra/39.jpg" title=""><img src="granguerra/39.jpg" width="75" height="75"></a>
+        <a href="granguerra/40.jpg" title=""><img src="granguerra/40.jpg" width="75" height="75"></a>
+        
+        
+	</div>
+
+<script type="text/javascript">
+      $(document).ready(function() {
+        $('.popup-gallery').magnificPopup({
+          delegate: 'a',
+          type: 'image',
+          tLoading: 'Loading image #%curr%...',
+          mainClass: 'mfp-img-mobile',
+          gallery: {
+            enabled: true,
+            navigateByImgClick: true,
+            preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+          },
+          image: {
+            tError: '<a href="%url%">La imagen #%curr%</a> no pudo ser cargada.'/*,
+            titleSrc: function(item) {
+              return item.el.attr('title') + '<small><a href="http://www.estonoesunarevista.co">www.estonoesunarevista</a></small>';
+            }*/
+          }
+        });
+      });
+</script>
+
+
+</body>
+</html>

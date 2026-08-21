@@ -1,0 +1,5 @@
+<p>Eduardo tiene esas cosas que lo hacen ser tan  Vedder. Nos referimos a poder sentarse solo en un escenario, acompañado de seis  cuerdas raquíticas, y concitar toda la atención de los auditorios, del  presencial y del virtual, con el único recurso de su magnética voz. En esta  ocasión nos deleita con un hermoso <em>cover</em> del tema de The Beatles (<em>White Album</em>),  aquel que relata las aventuras del mirlo que aprende a levantar el vuelo con  las alas rotas de tanto esperar.<br />
+  <br />
+  Es tanto carisma del que dispone Mr. Vedder  que en esta grabación (año 2011) se da el lujo de errarle a la entrada de la  canción. Pero la platea, entregada a esa ceremonia de creencias que consigue  separar el recinto del mundo real, hace caso omiso del furcio. Es comprensible.  Ya se sabe que las sesiones de hipnosis requieren del máximo silencio.</p>
+<p>&nbsp;</p>
+<iframe width="770" height="433" src="https://www.youtube.com/embed/1yOifFvYW2o?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

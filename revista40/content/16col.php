@@ -1,0 +1,3 @@
+<p>La sensibilidad constituye una característica  especial, distintiva, hasta que se presenta como parte del tronco de lo  cotidiano. Son pocos los cineastas actuales más aptos para acompañar esta  conversión que los hermanos belgas Jean-Pierre y Luc Dardenne. En <em>El niño de la bicicleta</em>, esta alquimia  es la que articula un recorrido argumental en el que la aspereza y la  autenticidad equilibran el sabor dulzón que en el espectador puede provocar la  historia de un niño huérfano a la fuerza. Una bicicleta que vehicula las  transformaciones y una peluquera sin más circunstancias que su deseo completan  un filme tan sencillo y bello como profundo en cada uno de sus fotogramas. </p>
+<p><em>Le gamin  au vélo</em> (2011)<br />
+  Jean-Pierre y Luc Dardenne</p>

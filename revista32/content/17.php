@@ -1,0 +1,16 @@
+<p>Cada  caso es único. Cada drama encierra en sí una experiencia propia e intransferible.  Y sin embargo el procedimiento se reproduce con ensañamiento milimétrico. Los  desahucios, que se repiten en España desde 2007 al ritmo del desfalco de lo  público, suman cada día nuevas víctimas. No resulta fácil establecer una cifra de  ejecuciones hipotecarias, debido principalmente a la opacidad de los organismos  públicos implicados. Quizá sean los más de quinientos desalojos diarios que en  2012 denunció la Plataforma de Afectados por la Hipoteca; quizá que más del 80  % de estas familias desahuciadas tengan menores a su cargo; quizá las docenas  de suicidios. Del otro lado, cerca de cinco millones de viviendas vacías cuyos  dueños (particulares y, sobre todo, entidades bancarias) esperan que la burbuja  inmobiliaria toque fondo, que las valoraciones repunten, que la especulación vuelva  a dar frutos. Mientras tanto, al cierre de esta edición la Constitución de 1978  sigue garantizando el derecho a una vivienda digna.</p>
+<p>En  paralelo, la lucha contra los desalojos se corporizó y visibilizó el ultraje. Y  en esa trinchera se encuentra el fotógrafo cántabro Olmo Calvo. Su trabajo se  desarrolla entre amenazas y chantajes policiales, sorteando la escalada  represiva, la confiscación del material de trabajo; doblegando con el objetivo  de su cámara la presunción de veracidad que la ley otorga a los cuerpos de  seguridad. Pero como el lector ya habrá notado, sus fotografías superan por  varios cuerpos el valor del testimonio para adentrarse en el terreno de lo  estético. No en vano, la serie &ldquo;Víctimas de los desahucios&rdquo; se alzó con el XVI  Premio Internacional de Fotografía Humanitaria Luis Valtueña que anualmente  convoca la organización no gubernamental Médicos del Mundo. Así, la utilización  del blanco y negro, los contrastes acentuados, las siluetas en sombra se alzan  como herramientas metafóricas y, a la vez, se estampan en la foto como sellos  de un autor personal y contundente.</p>
+<span  style="font-size: 12px">
+<p>
+	<a href="calvo/miniaturas.pdf" target="_blank">Descargar PDF con miniaturas y pies de fotos</a>
+</p>
+<p><strong>Bio</strong><br>
+  Olmo Calvo  (Santander, 1982)<br>
+  Comenzó a  fotografiar para el periódico <em>Molotov</em> en 2001 mientras estudiaba el ciclo superior de Imagen en Madrid. En 2004,  formó parte del comité fundador del periódico <em>Diagonal</em>. Continuó su formación en la PhotoEscuela de la Agencia  Cover (Madrid) y en la Escuela de Fotografía Motivarte (Buenos Aires). En 2006  fue cofundador de la cooperativa de fotógrafos SUB en Buenos Aires, de la que  sigue siendo parte activa y con la que consiguió varios premios  internacionales. Actualmente publica sus fotografías en medios españoles e  internacionales (Argentina, Ecuador, Colombia, Francia y Alemania), es  coordinador de fotografía en <em>Diagonal</em> y trabaja como fotoperiodista <em>freelance</em>.<br>
+  <a href="http://www.olmocalvo.com/" target="_blank">Web</a></p>
+</span>  
+ 
+ 
+<?
+	include('calvo/calvo.html');
+?>

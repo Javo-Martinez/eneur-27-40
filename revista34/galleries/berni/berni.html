@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    
+    <!-- Magnific Popup core CSS file -->
+    <link rel="stylesheet" href="slider/dist/magnific-popup.css"> 
+    
+    <!-- jQuery 1.7.2+ or Zepto.js 1.0+ -->
+    <script src="js/jquery-1.11.0.min.js"></script>
+    
+    <!-- Magnific Popup core JS file -->
+    <script src="slider/dist/jquery.magnific-popup.js"></script> 
+    
+
+</head>
+<body>
+
+
+    <div class="popup-gallery">
+    
+        <a href="berni/01.jpg" title="La gran tentación o La gran ilusión, 1962"><img src="berni/01.jpg" width="75" height="75"></a>
+        <a href="berni/02.jpg" title="Sin título o Un monstruo, de la serie 'Monstruos de la pesadilla de Ramona', 1962"><img src="berni/02.jpg" width="75" height="75"></a>
+        <a href="berni/03.jpg" title="Juanito pesca con red, 1962"><img src="berni/03.jpg" width="75" height="75"></a>
+        <a href="berni/04.jpg" title="El mundo prometido a Juanito Laguna, 1962"><img src="berni/04.jpg" width="75" height="75"></a>
+        <a href="berni/05.jpg" title="Juanito va a la ciudad, 1963"><img src="berni/05.jpg" width="75" height="75"></a>
+        <a href="berni/06.jpg" title="Sin título (Ramona levantando pesas), 1963"><img src="berni/06.jpg" width="75" height="75"></a>
+        <a href="berni/07.jpg" title="Ramona vive su vida, 1963"><img src="berni/07.jpg" width="75" height="75"></a>
+        <a href="berni/08.jpg" title="La voracidad, de la serie 'Los monstruos del infierno se disputan a Ramona Montiel', 1964"><img src="berni/08.jpg" width="75" height="75"></a>
+        <a href="berni/09.jpg" title="La sordidez, de la serie 'Los monstruos cósmicos', 1964"><img src="berni/09.jpg" width="75" height="75"></a>
+        <a href="berni/10.jpg" title="Ramona en la calle, 1964"><img src="berni/10.jpg" width="75" height="75"></a>
+        <a href="berni/11.jpg" title="Juanito Laguna going to the factory, 1977"><img src="berni/11.jpg" width="75" height="75"></a>
+        <a href="berni/12.jpg" title="Juanito dormido, 1978"><img src="berni/12.jpg" width="75" height="75"></a>
+        
+        
+	</div>
+
+<script type="text/javascript">
+      $(document).ready(function() {
+        $('.popup-gallery').magnificPopup({
+          delegate: 'a',
+          type: 'image',
+          tLoading: 'Loading image #%curr%...',
+          mainClass: 'mfp-img-mobile',
+          gallery: {
+            enabled: true,
+            navigateByImgClick: true,
+            preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+          },
+          image: {
+            tError: '<a href="%url%">La imagen #%curr%</a> no pudo ser cargada.'/*,
+            titleSrc: function(item) {
+              return item.el.attr('title') + '<small><a href="http://www.estonoesunarevista.co">www.estonoesunarevista</a></small>';
+            }*/
+          }
+        });
+      });
+</script>
+
+
+</body>
+</html>

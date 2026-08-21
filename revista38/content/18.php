@@ -1,0 +1,5 @@
+<p>Enrique Sobisch paseó su alma inquieta por varios lugares,  incluyendo sucesivas metamorfosis en su obra que arrancan en un coqueteo con  movimientos contemporáneos al surrealismo, la pintura abstracta y sus derivados  y culminan en el hiperrealismo. Una extraña y poco habitual trayectoria que  atraviesa en su camino los momentos que elegimos para compartir en ENEUR: el  expresionismo y la neo-figuración. Tramo de su obra que se ubica entre mediados  de la década de 1970 y los primeros años de la década posterior. Años de viajes  y transformaciones para el pintor que decidió irse a vivir a España en 1979,  donde diez años más tarde lo encontraría el final de su existencia; y de  pinturas que empezarían a volcar el trazo hacia el realismo. Si bien su obra es  poco conocida en tierra propia y ajena, Sobisch cosechó premios,  reconocimientos y un trabajo que orbita en una galaxia en la que nombres  reconocidos de la plástica argentina de las últimas décadas lo reciben y lo  exponen buscando lugares y ocasiones donde rescatar una obra tan intensa como  extensa.</p>
+
+<?
+	include('sobisch/index.php');
+?>

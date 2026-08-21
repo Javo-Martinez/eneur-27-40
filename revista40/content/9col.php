@@ -1,0 +1,3 @@
+<p>Se lo conoce como &ldquo;el primer disco  instrumental&rdquo; de Prince. Pero como casi todas las afirmaciones acerca de la  vida del único príncipe de la historia de la música, esta también requiere de  matices. Cierto es que carece de voces, aunque ediciones posteriores le  agregaron temas vocalizados que hacen de esta placa un híbrido que multiplica  su hibridez a medida que avanza su minutaje. Hay jazz, fundamentalmente, pero  también estos aires afortunadamente se enrarecen en rincones en los que no  cuesta deleitarse con algunas de las tantas señas de identidad del de  Minneapolis. Álbum digital, no físico, apareció el 1 de enero de 2003, y entre  sus créditos destaca el delicioso violín de Vanessa Mae. </p>
+<p>Prince<br />
+  <em>Xpectation</em> (2003)</p>

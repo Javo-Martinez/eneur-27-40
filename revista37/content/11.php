@@ -1,0 +1,5 @@
+<p><em>El ombligo de un sueño</em> es el trabajo conjunto del contrabajista Gabriel Domenicucci y el pianista Ernesto  Amstein. De los siete episodios que lo conforman, cinco son fruto de la pluma  de Domenicucci mientras que los dos restantes revelan, por su disímil origen,  el amplio campo de exploración que constituyó la semilla de este trabajo. El disco  se sustenta en las sólidas composiciones del contrabajista y en el impulso  rítmico del diálogo improvisatorio. Fue grabado en el Estudio Mínimo, en Buenos  Aires, en noviembre de 2014 y mezclado en el Estudio Chufitlandia por Alejandro  Spinelli. <br />
+  <br />
+  Seleccionado como disco del mes de  junio de 2015 por el prestigioso Club del Disco, <em>El ombligo de un sueño</em> se basa, según sus autores e intérpretes, en  melodías atravesadas por la magia de los sueños, buscando un desarrollo onírico  de la idea musical que recorre la obra, casi al modo del &ldquo;dogma&rdquo;  cinematográfico. Para disfrutar con la vista y los oídos…</p>
+<p>&nbsp;</p>
+<iframe width="770" height="433" src="https://www.youtube.com/embed/950KldmUUUE?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

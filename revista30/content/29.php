@@ -1,0 +1,9 @@
+<p>Las cada vez más altas temperaturas de los veranos son el campo de juego propicio para recetas refrescantes. Por eso, en nuestras excursiones gastronómicas, dejamos de lado por un rato las lides de la cocina para trasladarnos a la barra de tragos. Imbuidos del alma de los fundadores del restaurante cubano La Floridita, decidimos ponernos manos a la obra y romper la monotonía de la siesta con el sonar de la licuadora y hacer nuestros propios daiquiris bien frappé.</p>
+<p>La cosa es sencilla y si el hábito no hace al monje, la práctica sí hace al barman. Por eso les sugerimos darle duro y parejo hasta encontrar el punto personal del daiquirí. Como de algún punto hay que partir, esta es la receta madre de todos los dairquirís:</p>
+<ul>
+  <li>Hielo, cantidad necesaria</li>
+  <li>1 medida de jugo de limón</li>
+  <li>3 medidas de ron blanco, preferentemente Havanna Club 3 años</li>
+  <li> 2 ó 3 cucharadas de azúcar</li>
+</ul>
+<p>Luego vienen las variantes. Y aquí intervienen el gusto, la creatividad y hasta los ingredientes que tengamos a mano al momento de asaltarnos una sed irremediable de este brebaje. Los más difundidos, en estas latitudes, son los daiquirís a base de frutas: frutilla, durazno y ananá/piña a la cabeza, uno que hemos probado más de una vez, sólo para corroborar su delicado sabor, es el daiquirí de melón. Para obtener cualquiera de estos sabores frutales no hay más que reemplazar el jugo de limón por trozos de fruta, siempre preferibles a las pulpas industriales que suelen utilizarse en las barras comerciales. Pero, ¿cuánta fruta? Hay una respuesta: más o menos así, hasta que el ojo de buen cubero haga foco. Para los paladares más inquietos, recomendamos seriamente el recetario de la marca Havanna Club en el que encontrarán muchas otras combinaciones, siempre alrededor del ron y el frappé.</p>

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    
+    <!-- Magnific Popup core CSS file -->
+    <link rel="stylesheet" href="slider/dist/magnific-popup.css"> 
+    
+    <!-- jQuery 1.7.2+ or Zepto.js 1.0+ -->
+    <script src="js/jquery-1.11.0.min.js"></script>
+    
+    <!-- Magnific Popup core JS file -->
+    <script src="slider/dist/jquery.magnific-popup.js"></script> 
+    
+
+</head>
+<body>
+
+
+    <div class="popup-gallery">
+    
+        <a href="delvaux/01.jpg" title="La anunciación,1945 - © Paul Delvaux, VEGAP, Madrid 2015"><img src="delvaux/01.jpg" width="75" height="75"></a>
+        <a href="delvaux/02.jpg" title="Crucifixión, 1954  - © Paul Delvaux, VEGAP, Madrid 2015"><img src="delvaux/02.jpg" width="75" height="75"></a>
+        <a href="delvaux/03.jpg" title="La edad de hierro, 1951  - © Paul Delvaux, VEGAP, Madrid 2015"><img src="delvaux/03.jpg" width="75" height="75"></a>
+        <a href="delvaux/04.jpg" title="El sueño, 1944  - © Paul Delvaux, VEGAP, Madrid 2015"><img src="delvaux/04.jpg" width="75" height="75"></a>
+        <a href="delvaux/05.jpg" title="La Venus dormida I,1932  - © Paul Delvaux, VEGAP, Madrid 2015"><img src="delvaux/05.jpg" width="75" height="75"></a>
+        <a href="delvaux/06.jpg" title="¿El incendio?, 1935(?) - © Paul Delvaux, VEGAP, Madrid 2015"><img src="delvaux/06.jpg" width="75" height="75"></a>
+        <a href="delvaux/07.jpg" title="El incendio, 1935 - © Paul Delvaux, VEGAP, Madrid 2015"><img src="delvaux/07.jpg" width="75" height="75"></a>
+        <a href="delvaux/08.jpg" title="Mujer y esqueleto, 1949 - © Paul Delvaux, VEGAP, Madrid 2015"><img src="delvaux/08.jpg" width="75" height="75"></a>
+        <a href="delvaux/09.jpg" title="Los esqueletos, 1944 - © Paul Delvaux, VEGAP, Madrid 2015"><img src="delvaux/09.jpg" width="75" height="75"></a>
+        <a href="delvaux/10.jpg" title="Mujer ante el espejo, 1936 - © Paul Delvaux, VEGAP, Madrid 2015"><img src="delvaux/10.jpg" width="75" height="75"></a>
+        <a href="delvaux/11.jpg" title="La terraza, 1979 - © Paul Delvaux, VEGAP, Madrid 2015"><img src="delvaux/11.jpg" width="75" height="75"></a>
+        <a href="delvaux/12.jpg" title="Las sombras, 1965 - © Paul Delvaux, VEGAP, Madrid 2015"><img src="delvaux/12.jpg" width="75" height="75"></a>
+        <a href="delvaux/13.jpg" title="El retiro, 1973 - © Paul Delvaux, VEGAP, Madrid 2015"><img src="delvaux/13.jpg" width="75" height="75"></a>
+        <a href="delvaux/14.jpg" title="Palacio en ruinas, 1935 - © Paul Delvaux, VEGAP, Madrid 2015"><img src="delvaux/14.jpg" width="75" height="75"></a>
+        <a href="delvaux/15.jpg" title="El viaducto, 1963 - © Paul Delvaux, VEGAP, Madrid 2015"><img src="delvaux/15.jpg" width="75" height="75"></a>
+        
+        
+	</div>
+
+<script type="text/javascript">
+      $(document).ready(function() {
+        $('.popup-gallery').magnificPopup({
+          delegate: 'a',
+          type: 'image',
+          tLoading: 'Loading image #%curr%...',
+          mainClass: 'mfp-img-mobile',
+          gallery: {
+            enabled: true,
+            navigateByImgClick: true,
+            preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+          },
+          image: {
+            tError: '<a href="%url%">La imagen #%curr%</a> no pudo ser cargada.'/*,
+            titleSrc: function(item) {
+              return item.el.attr('title') + '<small><a href="http://www.estonoesunarevista.co">www.estonoesunarevista</a></small>';
+            }*/
+          }
+        });
+      });
+</script>
+
+
+</body>
+</html>

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    
+    <!-- Magnific Popup core CSS file -->
+    <link rel="stylesheet" href="slider/dist/magnific-popup.css"> 
+    
+    <!-- jQuery 1.7.2+ or Zepto.js 1.0+ -->
+    <script src="js/jquery-1.11.0.min.js"></script>
+    
+    <!-- Magnific Popup core JS file -->
+    <script src="slider/dist/jquery.magnific-popup.js"></script> 
+    
+
+</head>
+<body>
+
+
+    <div class="popup-gallery">
+    
+        <a href="brauner/01.jpg" title=""><img src="brauner/01.jpg" width="75" height="75"></a>
+        <a href="brauner/02.jpg" title=""><img src="brauner/02.jpg" width="75" height="75"></a>
+        <a href="brauner/03.jpg" title=""><img src="brauner/03.jpg" width="75" height="75"></a>
+        <a href="brauner/04.jpg" title=""><img src="brauner/04.jpg" width="75" height="75"></a>
+        <a href="brauner/05.jpg" title=""><img src="brauner/05.jpg" width="75" height="75"></a>
+        <a href="brauner/06.jpg" title=""><img src="brauner/06.jpg" width="75" height="75"></a>
+        <a href="brauner/07.jpg" title=""><img src="brauner/07.jpg" width="75" height="75"></a>
+        <a href="brauner/08.jpg" title=""><img src="brauner/08.jpg" width="75" height="75"></a>
+        <a href="brauner/09.jpg" title=""><img src="brauner/09.jpg" width="75" height="75"></a>
+        <a href="brauner/10.jpg" title=""><img src="brauner/10.jpg" width="75" height="75"></a>
+        <a href="brauner/11.jpg" title=""><img src="brauner/11.jpg" width="75" height="75"></a>
+        <a href="brauner/12.jpg" title=""><img src="brauner/12.jpg" width="75" height="75"></a>
+        <a href="brauner/14.jpg" title=""><img src="brauner/14.jpg" width="75" height="75"></a>
+        <a href="brauner/15.jpg" title=""><img src="brauner/15.jpg" width="75" height="75"></a>
+        <a href="brauner/16.jpg" title=""><img src="brauner/16.jpg" width="75" height="75"></a>
+        <a href="brauner/17.jpg" title=""><img src="brauner/17.jpg" width="75" height="75"></a>
+        <a href="brauner/18.jpg" title=""><img src="brauner/18.jpg" width="75" height="75"></a>
+        <a href="brauner/19.jpg" title=""><img src="brauner/19.jpg" width="75" height="75"></a>
+        <a href="brauner/20.jpg" title=""><img src="brauner/20.jpg" width="75" height="75"></a>
+        <a href="brauner/21.jpg" title=""><img src="brauner/21.jpg" width="75" height="75"></a>
+        <a href="brauner/22.jpg" title=""><img src="brauner/22.jpg" width="75" height="75"></a>
+        <a href="brauner/23.jpg" title=""><img src="brauner/23.jpg" width="75" height="75"></a>
+        <a href="brauner/24.jpg" title=""><img src="brauner/24.jpg" width="75" height="75"></a>
+        <a href="brauner/25.jpg" title=""><img src="brauner/25.jpg" width="75" height="75"></a>
+        
+        
+	</div>
+
+<script type="text/javascript">
+      $(document).ready(function() {
+        $('.popup-gallery').magnificPopup({
+          delegate: 'a',
+          type: 'image',
+          tLoading: 'Loading image #%curr%...',
+          mainClass: 'mfp-img-mobile',
+          gallery: {
+            enabled: true,
+            navigateByImgClick: true,
+            preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+          },
+          image: {
+            tError: '<a href="%url%">La imagen #%curr%</a> no pudo ser cargada.'/*,
+            titleSrc: function(item) {
+              return item.el.attr('title') + '<small><a href="http://www.estonoesunarevista.co">www.estonoesunarevista</a></small>';
+            }*/
+          }
+        });
+      });
+</script>
+
+
+</body>
+</html>

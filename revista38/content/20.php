@@ -1,0 +1,6 @@
+<p>Los deseos de una mejor partición y repartija de los panes y  el sueño de tomar por asalto tesoros que pertenecen a otros encuentran a Brítez  y Ruso, antiguos empleados de una panadería del pueblo de Chabás a comienzos de  los 60, imaginando posibles modo de salirse de esta rutina de harinas blancas  que pareciera que los traga cual arena movediza. <strong></strong></p>
+<p>  Confiar al azar el devenir inesperado de buena fortuna, unos  numeritos que cambien la suerte.  </p>
+<p>Estos entrañables compañeros comparten sus jornadas,  frustraciones y añoranzas que fermentan deseos  de una vida mejor y la compañía de una mujer, Estelita quizá, flor negra  sabedora de sus encantos, a quien cuidan un poco ciegamente, y quien sabe  amasar con artilugios algunos planes a conveniencia propia.</p>
+<p>Lejos del egoísmo, Brítez y Ruso van juntos en las buenas y  en las malas de cada uno, cuando el tamiz aliviante de la amistad se hace  necesario.</p>
+<p>Ópera prima de Marcos de las Carreras que cuenta con bellas  actuaciones, poéticas, que se juegan un lenguaje, una construcción, acompañadas  por una escenografía con remembranzas de panadería de antaño hacen de esta obra  uno de los imperdibles para el 2016.</p>
+<p>&nbsp;</p>

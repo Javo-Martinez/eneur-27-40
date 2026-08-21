@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    
+    <!-- Magnific Popup core CSS file -->
+    <link rel="stylesheet" href="slider/dist/magnific-popup.css"> 
+    
+    <!-- jQuery 1.7.2+ or Zepto.js 1.0+ -->
+    <script src="js/jquery-1.11.0.min.js"></script>
+    
+    <!-- Magnific Popup core JS file -->
+    <script src="slider/dist/jquery.magnific-popup.js"></script> 
+    
+
+</head>
+<body>
+
+
+    <div class="popup-gallery">
+    
+        <a href="gowin/01.jpg" title=""><img src="gowin/01.jpg" width="75" height="75"></a>
+        <a href="gowin/02.jpg" title=""><img src="gowin/02.jpg" width="75" height="75"></a>
+        <a href="gowin/03.jpg" title=""><img src="gowin/03.jpg" width="75" height="75"></a>
+        <a href="gowin/05.jpg" title=""><img src="gowin/05.jpg" width="75" height="75"></a>
+        <a href="gowin/06.jpg" title=""><img src="gowin/06.jpg" width="75" height="75"></a>
+        <a href="gowin/07.jpg" title=""><img src="gowin/07.jpg" width="75" height="75"></a>
+        <a href="gowin/08.jpg" title=""><img src="gowin/08.jpg" width="75" height="75"></a>
+        <a href="gowin/09.jpg" title=""><img src="gowin/09.jpg" width="75" height="75"></a>
+        <a href="gowin/10.jpg" title=""><img src="gowin/10.jpg" width="75" height="75"></a>
+        <a href="gowin/11.jpg" title=""><img src="gowin/11.jpg" width="75" height="75"></a>
+        <a href="gowin/12.jpg" title=""><img src="gowin/12.jpg" width="75" height="75"></a>
+        <a href="gowin/13.jpg" title=""><img src="gowin/13.jpg" width="75" height="75"></a>
+        <a href="gowin/14.jpg" title=""><img src="gowin/14.jpg" width="75" height="75"></a>
+        <a href="gowin/15.jpg" title=""><img src="gowin/15.jpg" width="75" height="75"></a>
+        <a href="gowin/16.jpg" title=""><img src="gowin/16.jpg" width="75" height="75"></a>
+        <a href="gowin/17.jpg" title=""><img src="gowin/17.jpg" width="75" height="75"></a>
+        <a href="gowin/18.jpg" title=""><img src="gowin/18.jpg" width="75" height="75"></a>
+        <a href="gowin/19.jpg" title=""><img src="gowin/19.jpg" width="75" height="75"></a>
+        <a href="gowin/20.jpg" title=""><img src="gowin/20.jpg" width="75" height="75"></a>
+        <a href="gowin/23.jpg" title=""><img src="gowin/23.jpg" width="75" height="75"></a>
+        <a href="gowin/21.jpg" title=""><img src="gowin/21.jpg" width="75" height="75"></a>
+        <a href="gowin/22.jpg" title=""><img src="gowin/22.jpg" width="75" height="75"></a>
+        
+        
+	</div>
+
+<script type="text/javascript">
+      $(document).ready(function() {
+        $('.popup-gallery').magnificPopup({
+          delegate: 'a',
+          type: 'image',
+          tLoading: 'Loading image #%curr%...',
+          mainClass: 'mfp-img-mobile',
+          gallery: {
+            enabled: true,
+            navigateByImgClick: true,
+            preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+          },
+          image: {
+            tError: '<a href="%url%">La imagen #%curr%</a> no pudo ser cargada.'/*,
+            titleSrc: function(item) {
+              return item.el.attr('title') + '<small><a href="http://www.estonoesunarevista.co">www.estonoesunarevista</a></small>';
+            }*/
+          }
+        });
+      });
+</script>
+
+
+</body>
+</html>

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    
+    <!-- Magnific Popup core CSS file -->
+    <link rel="stylesheet" href="slider/dist/magnific-popup.css"> 
+    
+    <!-- jQuery 1.7.2+ or Zepto.js 1.0+ -->
+    <script src="js/jquery-1.11.0.min.js"></script>
+    
+    <!-- Magnific Popup core JS file -->
+    <script src="slider/dist/jquery.magnific-popup.js"></script> 
+    
+
+</head>
+<body>
+
+
+    <div class="popup-gallery">
+    
+        <a href="edburg/01.jpg" title="Muerte por algodón dulce"><img src="edburg/01.jpg" width="75" height="75"></a>
+        <a href="edburg/02.jpg" title="Muerte por bananas"><img src="edburg/02.jpg" width="75" height="75"></a>
+        <a href="edburg/03.jpg" title="Muerte por café"><img src="edburg/03.jpg" width="75" height="75"></a>
+        <a href="edburg/04.jpg" title="Muerte por Canderel"><img src="edburg/04.jpg" width="75" height="75"></a>
+        <a href="edburg/05.jpg" title="Muerte por depilación"><img src="edburg/05.jpg" width="75" height="75"></a>
+        <a href="edburg/06.jpg" title="Muerte por Gummie Bears"><img src="edburg/06.jpg" width="75" height="75"></a>
+        <a href="edburg/07.jpg" title="Muerte por manzanas"><img src="edburg/07.jpg" width="75" height="75"></a>
+        <a href="edburg/08.jpg" title="Muerte por Miss Clairol"><img src="edburg/08.jpg" width="75" height="75"></a>
+        <a href="edburg/09.jpg" title="Muerte por M&M's"><img src="edburg/09.jpg" width="75" height="75"></a>
+        <a href="edburg/10.jpg" title="Muerte por Nutella"><img src="edburg/10.jpg" width="75" height="75"></a>
+        <a href="edburg/11.jpg" title="Muerte por Oreos"><img src="edburg/11.jpg" width="75" height="75"></a>
+        <a href="edburg/12.jpg" title="Muerte por pastel"><img src="edburg/12.jpg" width="75" height="75"></a>
+        <a href="edburg/13.jpg" title="Muerte por salvavidas"><img src="edburg/13.jpg" width="75" height="75"></a>
+        <a href="edburg/14.jpg" title="Muerte por shampoo"><img src="edburg/14.jpg" width="75" height="75"></a>
+        <a href="edburg/15.jpg" title="Muerte por SlimFast"><img src="edburg/15.jpg" width="75" height="75"></a>
+        <a href="edburg/16.jpg" title="Muerte por tostador"><img src="edburg/16.jpg" width="75" height="75"></a>
+        <a href="edburg/17.jpg" title="Muerte por Tupperware"><img src="edburg/17.jpg" width="75" height="75"></a>
+        
+        
+	</div>
+
+<script type="text/javascript">
+      $(document).ready(function() {
+        $('.popup-gallery').magnificPopup({
+          delegate: 'a',
+          type: 'image',
+          tLoading: 'Loading image #%curr%...',
+          mainClass: 'mfp-img-mobile',
+          gallery: {
+            enabled: true,
+            navigateByImgClick: true,
+            preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+          },
+          image: {
+            tError: '<a href="%url%">La imagen #%curr%</a> no pudo ser cargada.'/*,
+            titleSrc: function(item) {
+              return item.el.attr('title') + '<small><a href="http://www.estonoesunarevista.co">www.estonoesunarevista</a></small>';
+            }*/
+          }
+        });
+      });
+</script>
+
+
+</body>
+</html>

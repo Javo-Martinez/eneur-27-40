@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    
+    <!-- Magnific Popup core CSS file -->
+    <link rel="stylesheet" href="slider/dist/magnific-popup.css"> 
+    
+    <!-- jQuery 1.7.2+ or Zepto.js 1.0+ -->
+    <script src="js/jquery-1.11.0.min.js"></script>
+    
+    <!-- Magnific Popup core JS file -->
+    <script src="slider/dist/jquery.magnific-popup.js"></script> 
+    
+
+</head>
+<body>
+
+
+    <div class="popup-gallery">
+    
+        <a href="mezca/01.jpg" title=""><img src="mezca/01.jpg" width="75" height="75"></a>
+        <a href="mezca/02.jpg" title=""><img src="mezca/02.jpg" width="75" height="75"></a>
+        <a href="mezca/03.jpg" title=""><img src="mezca/03.jpg" width="75" height="75"></a>
+        <a href="mezca/04.jpg" title=""><img src="mezca/04.jpg" width="75" height="75"></a>
+        <a href="mezca/05.jpg" title=""><img src="mezca/05.jpg" width="75" height="75"></a>
+        <a href="mezca/06.jpg" title=""><img src="mezca/06.jpg" width="75" height="75"></a>
+        <a href="mezca/07.jpg" title=""><img src="mezca/07.jpg" width="75" height="75"></a>
+        <a href="mezca/08.jpg" title=""><img src="mezca/08.jpg" width="75" height="75"></a>
+        <a href="mezca/09.jpg" title=""><img src="mezca/09.jpg" width="75" height="75"></a>
+        <a href="mezca/10.jpg" title=""><img src="mezca/10.jpg" width="75" height="75"></a>
+        <a href="mezca/12.jpg" title=""><img src="mezca/12.jpg" width="75" height="75"></a>
+        <a href="mezca/13.jpg" title=""><img src="mezca/13.jpg" width="75" height="75"></a>
+        <a href="mezca/14.jpg" title=""><img src="mezca/14.jpg" width="75" height="75"></a>
+        
+        
+	</div>
+
+<script type="text/javascript">
+      $(document).ready(function() {
+        $('.popup-gallery').magnificPopup({
+          delegate: 'a',
+          type: 'image',
+          tLoading: 'Loading image #%curr%...',
+          mainClass: 'mfp-img-mobile',
+          gallery: {
+            enabled: true,
+            navigateByImgClick: true,
+            preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+          },
+          image: {
+            tError: '<a href="%url%">La imagen #%curr%</a> no pudo ser cargada.'/*,
+            titleSrc: function(item) {
+              return item.el.attr('title') + '<small><a href="http://www.estonoesunarevista.co">www.estonoesunarevista</a></small>';
+            }*/
+          }
+        });
+      });
+</script>
+
+
+</body>
+</html>

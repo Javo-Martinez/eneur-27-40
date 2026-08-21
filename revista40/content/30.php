@@ -1,0 +1,13 @@
+<p>Tirar el término ragú sobre la mesa puede despertar  interpretaciones diversas. Si bien los diccionarios etimológicos apuntan que el  origen del término es el vocablo francés <em>ragoûter</em>,  que significa &lsquo;despertar el apetito&rsquo;, hay quienes sostienen que el verdadero  ragú es el <em>ragù napolitano</em>, también  conocido como salsa bolognesa, a todas luces derivado del guiso francés. Si  acaso en la discusión entrara un malevo porteño criado a las luces de los  faroles de los conventillos, podría asegurar, sin que le tiemblen los labios,  que ragú no es más ni menos que la palabra que define al hambre feroz que hace  sonar las panzas. En nuestro caso, le apuntaremos a la definición más  tradicional de la <em>cuisine française</em> de las que pueden encontrarse montones de referencias, Wikipedia incluida: un  guisado de carne y verduras cocidas en salsa.<br>
+  Ingredientes<br>
+  1 kg de carne vacuna para estofado<br>
+  2 cebollas<br>
+  2 cebollas de verdeo<br>
+  2 zanahorias en rodajas no muy finas<br>
+  3 papas medianas en cubos grandes o varios papines<br>
+  1 ají rojo en juliana<br>
+  ½ taza de salsa de tomates<br>
+  1 taza de caldo de carne<br>
+  1 vaso de vino tinto<br>
+  <br>
+  Para comenzar elegiremos un buen trozo de carne apta para estofados:  el roast beef (y todas sus grafías trazadas con tiza en los pizarrones de las  carnicerías de barrio) que soportará estoicamente las horas de cocción que le  esperan. El cuadril, usado mayoritariamente para cocer a la plancha,  o la nalga, habitualmente destinada a ser  milanesa, son dos cortes que además de ser aptos le dan un toque magro que el  popular roast beef solo alcanzará con mucho trabajo de desgrase. Cualquiera sea  el que hayan elegido, se corta en trozos pequeños, digamos en cubos de 1 cm  como para dar un orden de magnitud. Se los salpimenta, se pasan por harina 000  y se los salta en aceite de oliva caliente. Cuando han tomado color a cocido se  retira la carne y, en ese mismo aceite, se rehogan las cebollas cortadas en  juliana y las de verdeo en rodajas gruesas. Cuando van tomado color se desglasa  con el vino tinto, se incorpora el caldo, los vegetales, la salsa de tomates y  se regresa la carne a la olla. A fuego bien bajo y revolviendo cada tanto para  evitar que se pegue en el fondo, lo dejamos cocinar entre dos y tres horas. Si  al lector le place, puede agregar unos champiñones fileteados gruesos en los  últimos 15 minutos de la cocción. Un buen vino tinto y un rico pan son un dúo  que acompaña a este platazo que, apostamos doble contra sencillo, lo ubicará en  el podio de la buena cocina hogareña.</p>

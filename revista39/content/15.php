@@ -1,0 +1,6 @@
+<p>Para quienes nos criamos al amparo de las abuelas amantes de  los clásicos de Hollywood, la televisión en blanco y negro y los domingos de  súper acción, <strong>Cantando bajo la lluvia</strong> es, cuanto menos, una suerte de biblia cinematográfica animada. La inolvidable  escena en la que Gene Kelly hace lo que el título anticipa ha quedado gradaba a  fuego, valga la contradicción, en la memoria de muchas generaciones de  televidentes. Película de culto que pone de manifiesto lo que fue la llegada  del cine sonoro a la industria, se ha convertido en una suerte de juego de  mamushkas, cine dentro del cine, que películas más recientes, como <strong>El artista</strong> retomaron como un guante  digno de ser llevado. Muchos mitos hay alrededor de la famosa escena del tap  bajo la lluvia, desde la fiebre elevada del protagonista hasta la inexistencia  de la misma en el guion original. Lo cierto es que para muchos de nosotros, su  sólo recuerdo nos evoca aquellas tardes y nos lleva a silbar por lo bajo y  entre dientes su inoxidable melodía.</p>
+<p>
+&nbsp;
+</p>
+
+<iframe width="770" height="433" src="https://www.youtube.com/embed/D1ZYhVpdXbQ?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
