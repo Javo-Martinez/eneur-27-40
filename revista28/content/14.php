@@ -10,41 +10,7 @@
 </span>
 <br />
 
-<? 
-	//RECUPERO LA ESTRUCTURA DE LA PAGINA
-	$imagen = 	"SELECT 
-				cantidadImagenes
-				FROM notas
-				WHERE idPagina = ". $pag . "
-				AND edicionNumero =". $numeroActual; 
-	
-
-	
-			echo "<div id=\"slider2\">";
-			
-				$paginaimagen = mysql_query($imagen) or die("Couldn't execute query: ".$imagen);
-				
-				while ($row= mysql_fetch_array($paginaimagen)) 
-				{
-					$cantidadImagenes 	= $row["cantidadImagenes"];
-				}
-	
-				for ($i=1; $i<=$cantidadImagenes; $i++)
-				{
-					$size = GetImageSize("fotos/".$i.".jpg");	
-					$anchura=$size[0];
-					$nuevoAncho = (770 - $anchura) / 2;
-					echo "<img id=".$i." src=\"fotos/".$i.".jpg\" style=\"margin-left:".$nuevoAncho."px\" />";	
-				}
-				
-			
-				echo "<div id=\"titulo\">";
-//								
-//					for ($i=1; $i<=$cantidadImagenes; $i++)
-//					{
-//						echo"<p> Titulo ".($i). "</p>";
-//					}
-				?>	
+<!--
                 	<tt>
 					<p>A las puertas del paraíso II</p>
                     <p>A una artista</p>
@@ -68,72 +34,4 @@
                     <p>Y oye allí, gemidos al viento</p> 	
 
                     </tt>
-                <?
-//				
-				echo "</div>";			
-			
-			echo "</div>";
-
-			echo "<div id=\"contenedorGaleria\">";
-			
-				echo "<div id=\"galeriaTexto\" onclick=\"slider2('A')\"> <tt>'<'Anterior</tt>  </div>";
-
-	
-				echo "<div id=\"galeriaAnt\">";
-				
-					for ($i=1; $i<=$cantidadImagenes; $i++)
-					{
-						if (($i-1)==0)
-						{	
-							$iA = $cantidadImagenes;
-						}
-						else
-						{
-							$iA = $i-1;
-						}
-						echo"<img style=\"float:left\" src=\"fotos/mini".($iA).".jpg\" />";
-					}
-	
-				echo "</div>";
-
-
-				echo "<div id=\"galeria\">";
-				
-					for ($i=1; $i<=$cantidadImagenes; $i++)
-					{
-						echo"<img style=\"float:left\" src=\"fotos/mini".($i).".jpg\"/>";
-					}
-	
-				echo "</div>";
-				
-				
-			
-				echo "<div id=\"galeriaSig\">";
-				
-					for ($i=1; $i<=$cantidadImagenes; $i++)
-					{
-						
-						if (($i+1) > $cantidadImagenes)
-						{	
-							$iS = 1;
-						}
-						else
-						{
-							$iS = $i+1;
-						}
-						
-						echo"<img style=\"float:left\" src=\"fotos/mini".($iS).".jpg\" />";
-					}
-	
-				echo "</div>";
-			
-				  
-				echo "<div id=\"galeriaTexto\" onclick=\"slider2('P')\"> <tt>Siguiente'>'</tt> </div>";	
-				
-
-
-			
-			echo "</div>";
-			
-
-?>
+-->
