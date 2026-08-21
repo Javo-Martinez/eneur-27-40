@@ -6,7 +6,7 @@
 
 <audio id="audio" style="background-color:black" controls="controls">
 
-    <source type="audio/mp3" src="./musica/121.mp3"></source>
+    <source type="audio/mp3" src="music/121.mp3"></source>
 
 </audio>
 <br />
@@ -19,7 +19,7 @@
 
 <audio id="audio" style="background-color:black" controls="controls">
 
-    <source type="audio/mp3" src="./musica/122.mp3"></source>
+    <source type="audio/mp3" src="music/122.mp3"></source>
 
 </audio>
 
@@ -32,7 +32,7 @@
 
 <audio id="audio" style="background-color:black" controls="controls">
 
-    <source type="audio/mp3" src="./musica/123.mp3"></source>
+    <source type="audio/mp3" src="music/123.mp3"></source>
 
 </audio>
 
@@ -46,7 +46,7 @@
 
 <audio id="audio" style="background-color:black" controls="controls">
 
-    <source type="audio/mp3" src="./musica/124.mp3"></source>
+    <source type="audio/mp3" src="music/124.mp3"></source>
 
 </audio>
 <br />
@@ -58,7 +58,7 @@
 
 <audio id="audio" style="background-color:black" controls="controls">
 
-    <source type="audio/mp3" src="./musica/125.mp3"></source>
+    <source type="audio/mp3" src="music/125.mp3"></source>
 
 </audio>
 <br />
