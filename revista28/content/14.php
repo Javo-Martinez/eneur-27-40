@@ -9,7 +9,8 @@
 </p>
 </span>
 <br />
-
+<div id="gallery">
+</div>
 <!--
                 	<tt>
 					<p>A las puertas del paraíso II</p>
