@@ -33,7 +33,7 @@
 
 <div id="base">
 
-	<img class="imageIndex" src="images/index.jpg" alt="" />
+	<img id="imageIndex" src="images/index.jpg" alt="" />
     
     <p class="poemaIndex">
     <br />
