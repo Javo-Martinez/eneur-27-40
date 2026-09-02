@@ -23,8 +23,8 @@
         Con manitas y palabras generosas <br /> 
         Curitas descarriados <br /> 
         Perversa viene la mano <br /> 
-        Curitas, más curitas, mascaritas <br /> 
-        Varieté de esa familia,	 <br /> 
+        Curitas, mÃ¡s curitas, mascaritas <br /> 
+        VarietÃ© de esa familia,	 <br /> 
         lo diverso bajo la sotana  <br /> 
 
     </p>
@@ -39,7 +39,7 @@
     <p class="copyIndex">
     	ESTO NO ES UNA REVISTA  <br /> 
         ISSN 1853-5194  <br /> 
-        © 2010 Andrea Barone & Javier Martínez
+        Â© 2010 Andrea Barone & Javier MartÃ­nez
     </p>
 
 </div>

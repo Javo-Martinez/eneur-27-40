@@ -28,17 +28,17 @@
 
       	<div class="titul_ag">La manteca</div>
       	<div class="txt_intro">
-      	  <p>Mantequita nápoli, se oía en mi infancia.<br />
+      	  <p>Mantequita nÃ¡poli, se oÃ­a en mi infancia.<br />
 
 Nombre de tibios, derretidos y sonrojados, no de amor.<br />
 
 Los que no se animaban, los blandengues, en discurso arrabal.<br />
 
-Otros menúes en juego cuando se trata de untar,<br />
+Otros menÃºes en juego cuando se trata de untar,<br />
 
-Tostadas mañaneras, calientes, que derriten…<br />
+Tostadas maÃ±aneras, calientes, que derritenÂ…<br />
 
-Algún pan.</p>
+AlgÃºn pan.</p>
 </div>
       	<div class="menu_intro">
       	  
@@ -75,7 +75,7 @@ Algún pan.</p>
 -->
       	  
 <div id="pie">
-                <strong>ESTO NO </strong>ES UNA REVISTA ¬ cultura digital ¬ <strong>ISSN 1853-5194</strong> ¬  <strong>&copy;</strong> 2010 Andrea Barone &amp; Javier Mart&iacute;nez
+                <strong>ESTO NO </strong>ES UNA REVISTA Â¬ cultura digital Â¬ <strong>ISSN 1853-5194</strong> Â¬  <strong>&copy;</strong> 2010 Andrea Barone &amp; Javier Mart&iacute;nez
           </div>
 </div>
         	
@@ -92,7 +92,7 @@ Algún pan.</p>
 
   </div>
 
-<!--<div class="footer_intro">esto no es una revista ¬ <span class="footer_cultura">cultura digital</span> <span class="arti">¬ ISSN 1853-5194 </span><span class="arti">¬  &copy; 2010 Andrea Barone &amp; Javier Mart&iacute;nez</span></div>-->
+<!--<div class="footer_intro">esto no es una revista Â¬ <span class="footer_cultura">cultura digital</span> <span class="arti">Â¬ ISSN 1853-5194 </span><span class="arti">Â¬  &copy; 2010 Andrea Barone &amp; Javier Mart&iacute;nez</span></div>-->
 
 
 </div>

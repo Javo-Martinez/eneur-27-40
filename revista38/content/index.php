@@ -72,7 +72,7 @@
 -->
       	  
 <div id="pie">
-                <strong>ESTO NO </strong>ES UNA REVISTA ¬ cultura digital ¬ <strong>ISSN 1853-5194</strong> ¬  <strong>&copy;</strong> 2010 Andrea Barone &amp; Javier Mart&iacute;nez
+                <strong>ESTO NO </strong>ES UNA REVISTA Â¬ cultura digital Â¬ <strong>ISSN 1853-5194</strong> Â¬  <strong>&copy;</strong> 2010 Andrea Barone &amp; Javier Mart&iacute;nez
           </div>
 </div>
         	
@@ -89,7 +89,7 @@
 
   </div>
 
-<!--<div class="footer_intro">esto no es una revista ¬ <span class="footer_cultura">cultura digital</span> <span class="arti">¬ ISSN 1853-5194 </span><span class="arti">¬  &copy; 2010 Andrea Barone &amp; Javier Mart&iacute;nez</span></div>-->
+<!--<div class="footer_intro">esto no es una revista Â¬ <span class="footer_cultura">cultura digital</span> <span class="arti">Â¬ ISSN 1853-5194 </span><span class="arti">Â¬  &copy; 2010 Andrea Barone &amp; Javier Mart&iacute;nez</span></div>-->
 
 
 </div>
