@@ -2,6 +2,4 @@
 <p>Mostrarles a los 266 sumos pontífices nos  pareció excesivo. De modo que esta selección, como prácticamente cualquier  otra, resulta arbitraria. De ella destacamos algunas fabulosas obras de arte de  cachorros como Rubens, Rafael o El Greco. Amén de la inquietante figura de  Inocencio X retratado por Velázquez y la nada inocente reinterpretación de esta  realizada por Francis Bacon.</p>
 <p>Los hay píos e impíos, en plena faena y  ociosos. Los hay expectantes y adormilados, ridículos y amenazantes; severos y  menos severos. Con pompa y boato; enjoyados, enguantados y anillados. La mirada  perdida en el más allá o la pupila advirtiendo en el más acá de nuestros usos y  costumbres. Y ni siquiera nos inmiscuimos en creencias: somos posmodernos y nos  pierde la estética. Lo que de ella deriva queda a criterio de nuestros  terrenales lectores. Nosotros, a higienizar nuestras manos como un Pilatos  cualquiera.</p>
 <p>&nbsp;</p>
-<?
-	include('papas/index.php');
-?>
+<div id="gallery" data-gallery="papas"></div>
