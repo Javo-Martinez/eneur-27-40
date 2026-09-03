@@ -1,6 +1,5 @@
 <p>Como en un juego especular, nos encontramos con las  fotografías de Isabel Díez del mismo modo que lo hizo ella: de forma casual.  Sus imágenes, está a la vista, transmiten una sensación de perfección técnica  que la misma naturaleza que expone se torna sobrenatural en alguna de sus  tomas. Lo geométrico, lo onírico, lo que flota, hiela, corre, deja su marca de  movimiento, sea cinético o de tiempo. La construcción de su discurso  fotográfico se hila a partir de series que le dan una entidad finita a lo inabarcable  de retratar la naturaleza. La mutación impresa en un registro de colores y  texturas que hablan de un mundo tan íntimo como global. Hacer un recorrido por  esas series es acompañarla a los lugares más dispares del ancho mundo; seguirle  el rastro a la búsqueda de imágenes que nos sumergen en un registro que se  escapa de lo documental, que roza lo pictórico, que hace esquina con su  singular forma de capturar imágenes que despierten la atención de quien se  cruza con su obra.</p>
 <p><strong>Isabel Díez</strong>.  Bilbao, España, 1966. </p>
 <p>&nbsp;</p>
-<?
-	include('diez/index.php');
-?>
+
+<div id="gallery" data-gallery="diez"></div>
