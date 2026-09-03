@@ -3,6 +3,4 @@
   <strong>Tomory Dodge</strong>.  Denver, Colorado, 1974. <br />
 </p>
 
-<?
-	include('dodge/index.php');	
-?>
+<div id="gallery" data-gallery="dodge"></div>
