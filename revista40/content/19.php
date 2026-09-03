@@ -2,4 +2,4 @@
 <p>  <strong>Matt Stuart</strong>.  Harrow, Londres, 1974.</p>
 <p>&nbsp;</p>
 
-<? include('stuart/index.php'); ?>
+<div id="gallery" data-gallery="stuart"></div>
