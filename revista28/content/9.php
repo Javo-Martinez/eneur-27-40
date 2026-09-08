@@ -2,3 +2,9 @@
   <br />
   <br />
   En el tramo final de su prolífica  producción, que registró en más de sesenta discos a lo largo de 30 años de  carrera solista, más muchísimas colaboraciones en las grabaciones de otros, <strong>Art Pepper</strong> tuvo la magnífica idea de  emprenderla con uno de los sueños más ambiciosos de muchos músicos de jazz: el  jazz con cuerdas, ejecutadas por músicos de orquestas sinfónicas. Más que  subgénero, un desafío que se propuso (¿y acaso aún se propone?) como línea  divisoria entre la genialidad y lo olvidable. Es cierto que tal idea ha dado  algunos muy buenos discos, como ha sido pista de derrape de más de uno. Sin  temor, <strong>Art Pepper </strong>redobló la apuesta  con <strong>Winter Moon</strong> y, con toda la carne  al asador, grabó un disco precioso que propone unas profundidades melódicas donde  se pierde todo riesgo de ser lavadas por los arreglos de cuerdas; un panorama  de amplitudes melódicas que mecen a quien lo escucha y lo arrincona, por  momentos, con pinceladas al borde del desagarro del sonido del saxo. Una  comunión entre vientos y cuerdas donde la mano de Bill Holman para dirigir la  orquestación juega en sintonía con el vuelo de los dedos de <strong>Art Pepper </strong>por sobre las llaves de un  saxo del cual han salido algunas de las más inolvidables músicas de jazz.<a name="_GoBack" id="_GoBack"></a></p>
+
+<p align="center">
+<audio id="audio" controls="controls" style="background-color:black">
+	<source src="music/9.mp3" type="audio/mp3">
+</audio>
+</p>
