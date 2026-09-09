@@ -10,56 +10,44 @@ Selección de Alejandro Feijóo.
     	Autorretratos
     </strong>
 </p>
-<?
-	include('maier/autorretratos/index.php');
-?>
+
+<div id="gallery" data-gallery="maier-autorretratos"></div>
 
 <p>
 	<strong>
     	Chicos
     </strong>
 </p>
-<?
-	include('maier/chicos/index.php');
-?>
+
+<div id="gallery" data-gallery="maier-chicos"></div>
 
 <p>
 	<strong>
     	Ciudad
     </strong>
 </p>
-<?
-	include('maier/ciudad/index.php');
-?>	
+<div id="gallery" data-gallery="maier-ciudad"></div>	
 <p>
 	<strong>
     	Hombres
     </strong>
 </p>
-<?
-	include('maier/hombres/index.php');
-?>
+<div id="gallery" data-gallery="maier-hombres"></div>
 <p>
 	<strong>
     	Mujeres
     </strong>
 </p>
-<?
-	include('maier/mujeres/index.php');
-?>
+<div id="gallery" data-gallery="maier-mujeres"></div>
 <p>
 	<strong>
     	Naturaleza muerta
     </strong>
 </p>
-<?
-	include('maier/naturalezamuerta/index.php');
-?>
+<div id="gallery" data-gallery="maier-naturalezamuerta"></div>
 <p>
 	<strong>
     	Parejas
     </strong>
 </p>
-<?
-	include('maier/parejas/index.php');
-?>
+<div id="gallery" data-gallery="maier-parejas"></div>
