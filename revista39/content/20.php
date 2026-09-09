@@ -2,6 +2,4 @@
 </p>
 <br>
 
-<?
-	include('woodman/index.php');
-?>
+<div id="gallery" data-gallery="woodman"></div>
