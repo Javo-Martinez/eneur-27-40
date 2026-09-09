@@ -11,7 +11,7 @@ Selección de Alejandro Feijóo.
     </strong>
 </p>
 
-<div id="gallery" data-gallery="maier-autorretratos"></div>
+<div class="gallery" data-gallery="maier-autorretratos"></div>
 
 <p>
 	<strong>
@@ -19,35 +19,35 @@ Selección de Alejandro Feijóo.
     </strong>
 </p>
 
-<div id="gallery" data-gallery="maier-chicos"></div>
+<div class="gallery" data-gallery="maier-chicos"></div>
 
 <p>
 	<strong>
     	Ciudad
     </strong>
 </p>
-<div id="gallery" data-gallery="maier-ciudad"></div>	
+<div class="gallery" data-gallery="maier-ciudad"></div>	
 <p>
 	<strong>
     	Hombres
     </strong>
 </p>
-<div id="gallery" data-gallery="maier-hombres"></div>
+<div class="gallery" data-gallery="maier-hombres"></div>
 <p>
 	<strong>
     	Mujeres
     </strong>
 </p>
-<div id="gallery" data-gallery="maier-mujeres"></div>
+<div class="gallery" data-gallery="maier-mujeres"></div>
 <p>
 	<strong>
     	Naturaleza muerta
     </strong>
 </p>
-<div id="gallery" data-gallery="maier-naturalezamuerta"></div>
+<div class="gallery" data-gallery="maier-naturalezamuerta"></div>
 <p>
 	<strong>
     	Parejas
     </strong>
 </p>
-<div id="gallery" data-gallery="maier-parejas"></div>
+<div class="gallery" data-gallery="maier-parejas"></div>
