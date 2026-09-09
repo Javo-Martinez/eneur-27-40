@@ -34,8 +34,5 @@
 <p>Los colores aquí  forman volúmenes, planos y formas. Laten. Viven.</p>
 
 <p><strong>Luciano Antinori</strong></p>
+<div id="gallery" data-gallery="antinori"></div>
 
-<?
-	include('antinori/index.php');
-?>
-<p>&nbsp;</p>
