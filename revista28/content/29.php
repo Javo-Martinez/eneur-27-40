@@ -1,5 +1,5 @@
 <p>Supongamos un día de lluvia. Supongamos el festejo de cumpleaños de una hija, ya mayor de edad, a la que uno quiere agasajar. No dan ganas de salir, así que, beneficios del mundo moderno, uno levanta el teléfono y llama a la pescadería para que, amablemente, tomen el pedido y nos envíen los frutos de mar necesarios para una paella. Pero resulta que no hay todas las necesarias y uno debe improvisar... Así las cosas, los pulpitos chilenos tienen su noche estelar, acompañado de un breve pero eficaz elenco.</p>
-<p><span class="image_cen1"><img src="images/29.jpg"></span>Los ingredientes que usamos para 5 comensales:</p>
+<p>Los ingredientes que usamos para 5 comensales:</p>
 <ul style="margin-left:195px">
   <li>2 cebollas medianas picadas</li>
   <li>1 ají rojo cortado en cuadraditos</li>
