@@ -1,7 +1,7 @@
 <p align="right"><em>&ldquo;</em><em>El escultor no procura traducir al m</em><em>á</em><em>rmol su pensamiento, </em><br />
   <em>piensa en m</em><em>á</em><em>rmol directamente</em><em>&rdquo;  </em><br />
   <em>Oscar Wilde</em></p>
-<span class="image_cen2"><img src="images/31.jpg"></span><p>Mi manera de disfrutar del cocinar es  anárquica, o mejor dicho, caprichosa. Solo algunas veces sé lo que voy a  cocinar, aún así, es poco probable que termine haciendo eso mismo que decidí  antes. <br />
+<p>Mi manera de disfrutar del cocinar es  anárquica, o mejor dicho, caprichosa. Solo algunas veces sé lo que voy a  cocinar, aún así, es poco probable que termine haciendo eso mismo que decidí  antes. <br />
   Me es casi imposible seguir al pié de la letra  una receta. La mayoría de las veces no sé bien en que van a terminar las cosas  que comienzo a hacer. Es una mezcla entre el &ldquo;no me decido&rdquo;, &ldquo;no va a alcanzar&rdquo;,  &ldquo;le van a quedar mejor los contrastes&rdquo; o &ldquo;necesito más colores&rdquo;.<br />
   &ldquo;Mi manera&rdquo; es abrir la heladera o la alacena,  y ver ahí mismo, paradita, inquieta, qué puedo hacer con esto. Cuando me  conecto con lo que tengo a mano, y lo estoy combinando en mi cabeza, arranca  ese &ldquo;piensa en cocina&rdquo;.<br />
   Debo reconocer que esto hace que no sea una persona  agradable para los otros mientras cocino. Durante esas horas en que corto, mezclo,  pruebo, sumo, revuelvo, saco o dejo, agrego o descarto; estoy seria, por  momentos apurada, muy dedicada, algo desordenada, con un &ldquo;no se me acerquen que  me sale por los poros&rdquo;, pero al final seré yo la sorprendida, y eso, tal vez sea  lo que más disfruto. Porque eso que salió, eso, no me lo esperaba.<br />
