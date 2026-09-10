@@ -12,8 +12,3 @@ Yo me asomé a tus ojos y me vi sola y de pie.<br>
 —Contame, entonces, contame más.
 </div>
 
-<span class="image_cen1" style="text-align:center">
-	<img src="images/19.jpg" style="
-    width: 500px;
-">
-</span>
