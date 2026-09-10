@@ -30,5 +30,4 @@
   Olvidándose  todo el dolor y sufrimiento que nos causamos unos a los otros en las calles<br />
   Si te  respeto, nos unimos y frenamos al enemigo que trata de matarnos<br />
   Pero no  lo sé, no soy solo un mortal, tal vez solo soy otro negro.</em></p>
-<p>&nbsp;</p>
-<iframe src="https://vid.me/e/wMYj?tools=1" width="770" height="433" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen scrolling="no"></iframe>
+
