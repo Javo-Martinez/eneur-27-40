@@ -9,6 +9,4 @@
 <p>&nbsp;</p>
 
 
-<?
-	include('larco/index.php');
-?>
+<div id="gallery" data-gallery="larco"></div>
