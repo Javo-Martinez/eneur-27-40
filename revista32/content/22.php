@@ -1,5 +1,6 @@
 
-<p>
+<p    margin-bottom: 600px;
+>
     <strong>H. R. Giger</strong>
     <br />
     1940 - 2014
