@@ -3,6 +3,4 @@
 <p>  El Museo —fundado en 1928— parece ajeno al  bullicio dominguero que puebla la zona aledaña. Sin embargo, vale mucho la pena  perderse en una caminata por el parque donde las esculturas dialogan con el  entorno natural, y así también recorrer las salas de exhibición, para admirar  la colección calcos de obras significativas de diversas culturas. Arte  románico, arte oriental, arte ibérico, numerosos exponentes de la cultura  prehispánica de Mesoamérica; esculturas egipcias, romanas, góticas; piezas de  la Grecia Antigua y también del Renacimiento, con la presencia estelar del gran  Miguel Ángel.<strong></strong></p>
 <p>  El Museo fue concebido  para cumplir una función eminentemente didáctica, ya que la idea era traer al  país a los mayores exponentes del arte clásico y proveer modelos escultóricos  para la formación de los estudiantes de la Escuela Superior de Bellas Artes. Actualmente  la institución depende de la Universidad Nacional de las Artes, recientemente  creada a partir de la transformación del IUNA que adquirió rango de Universidad.  A propósito de ello, sería más que deseable que se propiciara un despliegue  mayor en la difusión del Museo para el disfrute y el conocimiento de la  colección, ya que por desgracia no cuenta con material informativo —folletería, <em>flyers </em>o similares— a disposición del  visitante.</p>
 
-<?
-	include('calcos/pagina.html');
-?>
+<div id="gallery" data-gallery="calcos"></div>
