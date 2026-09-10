@@ -1,6 +1,6 @@
 <p align="right"><em>El drama de ser dos</em><br />
   Stéphane Mallarmé</p>
-<span class="image_cen2"><img src="images/26.jpg"></span><p>Se acomodó a un pasado, mezcló  coincidencias y búsquedas desesperadas. Algunos saltos, vueltas a la manzana,  escondites, peripecias. Le agregó algo de intriga al desencuentro, y pasó así  muchos años de su vida, dentro de un frasco vacío que parecía siempre lleno.</p>
+<p>Se acomodó a un pasado, mezcló  coincidencias y búsquedas desesperadas. Algunos saltos, vueltas a la manzana,  escondites, peripecias. Le agregó algo de intriga al desencuentro, y pasó así  muchos años de su vida, dentro de un frasco vacío que parecía siempre lleno.</p>
 <p>Esa tarde, una brisa urbana,  mezcla de ajo, canela y pomelo, la puso en alerta. Como un golpe en la cabeza  que la regresó por donde se había perdido. </p>
 <p>Ahí, mientras secaba cubiertos  y le sacaba brillo a las copas, comprendió que su intimidad no estaba a su  alcance. Se dejó llevar por una esperanza que se le colaba por la entrepierna. </p>
 <p>Dejó el repasador, tomó la  bandeja redonda, se la puso delante del pecho (un escudo para las dudas), y  comenzó a caminar, pausada y firme. </p>
