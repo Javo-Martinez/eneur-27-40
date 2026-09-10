@@ -13,7 +13,7 @@
                   "11.jpg",
                   "12.jpg"
               ],
-    "mamba":  [
+    "mamba-ferrari":  [
                   "ferrari01.jpg",
                   "ferrari02.jpg",
                   "ferrari03.jpg",
@@ -24,7 +24,9 @@
                   "ferrari08.jpg",
                   "ferrari09.jpg",
                   "ferrari10.jpg",
-                  "ferrari11.jpg",
+                  "ferrari11.jpg"
+              ],
+    "mamba-teatro":  [
                   "teatro01.jpg",
                   "teatro02.jpg",
                   "teatro03.jpg",
