@@ -5,4 +5,3 @@ Pero las hay que se suicidan y se entregan en  seguida, brotan en el marco y ah�
 &nbsp;<br />
 Tristes gotas, redondas inocentes gotas. Adiós  gotas. Adiós.</p>
 <p> &nbsp;</p>
-<span class="image_cen1"><img src="images/26.jpg"></span>
