@@ -9,10 +9,7 @@ Por ambas cosas, las apariciones  de las magníficas y monstruosas esculturas de
   Av. Figueroa Alcorta 3415<br>
   Buenos Aires, Argentina<br>
   +54 11 4808 6500</p>
-<p>&nbsp;
-  
-</p>
 
-<?
-	include('berni/berni.html');
-?>
+</p>
+  <div id="gallery" data-gallery="berni"></div>
+
