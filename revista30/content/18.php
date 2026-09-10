@@ -1,19 +1,11 @@
 <p>Durante 2013, quienes estuvieron en la ciudad de Buenos Aires pudieron disfrutar de un amplio abanico de ofertas. Algunas de ellas, sobresalientes, son las que encolumnamos en esta nota con la esperanza de que se sea el adelanto de otro año de actividad cultural.</p>
 
 	<span class="image_cen1">				
-    <span class="lb-album">
-    <div class="lb-overlay" id="image-1">
-                <a href="#page" class="lb-close">Cerrar</a>
-                <img src="images/1801.jpg"/>							
-        </div>		
-        <a href="#image-1">
             <img src="images/mini1801.jpg">
-        </a>			
     </span>
-	</span>
 <p>
     <strong>Enero<br />
-      Tina Modotti. Fotógrafa y revolucionari</strong>a<br />
+     Tina Modotti. Fotógrafa y revolucionaria</strong><br />
     Centro Cultural Borges
     <br />
     Amiga del tridente artístico mexicano contemporáneo (Khalo, Rivera, Siqueiros), Modotti registró de modo excepcional el resurgimiento cultural en el México de las primeras décadas del siglo pasado. Recorrer el espinel de  otros haceres de la fotógrafa italiana, le da un marco de referencia y una perspectiva de lectura a sus exquisitos recortes de la realidad: activista antifascista, combatiente republicana en la Guerra Civil Española, actriz de Hollywood, militante comunista... 
@@ -21,16 +13,8 @@
 <p>&nbsp;</p>
 
 	<span class="image_cen1">				
-        <span class="lb-album">
-            <div class="lb-overlay" id="image-2">
-                <a href="#page" class="lb-close">Cerrar</a>
-                <img src="images/1802.jpg"/>							
-            </div>		
-            <a href="#image-2">
                 <img src="images/mini1802.jpg">
-            </a>			
-        </span>
-	</span>
+    </span>
 <p>
 
 	<strong>Febrero</strong> <br />
@@ -42,15 +26,7 @@
 <p>&nbsp;</p>
 
     <span class="image_cen1">				
-        <span class="lb-album">
-            <div class="lb-overlay" id="image-3">
-                <a href="#page" class="lb-close">Cerrar</a>
-                <img src="images/1803.jpg"/>							
-            </div>		
-            <a href="#image-3">
                 <img src="images/mini1803.jpg">
-            </a>			
-        </span>
     </span>
 
 <p>
@@ -63,15 +39,7 @@
 <p>&nbsp;</p>
 
 <span class="image_cen1">				
-    <span class="lb-album">
-        <div class="lb-overlay" id="image-4">
-            <a href="#page" class="lb-close">Cerrar</a>
-            <img src="images/1804.jpg"/>							
-        </div>		
-        <a href="#image-4">
             <img src="images/mini1804.jpg">
-        </a>			
-    </span>
 </span>
 <p>
 	<strong>Abril</strong>
@@ -84,15 +52,7 @@
 <p>&nbsp;</p>
 
 <span class="image_cen1">				
-    <span class="lb-album">
-        <div class="lb-overlay" id="image-5">
-            <a href="#page" class="lb-close">Cerrar</a>
-            <img src="images/1805.jpg"/>							
-        </div>		
-        <a href="#image-5">
             <img src="images/mini1805.jpg">
-        </a>			
-    </span>
 </span>
 
 <p>
@@ -106,15 +66,7 @@
 <p>&nbsp;</p>
 
 <span class="image_cen1">				
-    <span class="lb-album">
-        <div class="lb-overlay" id="image-6">
-            <a href="#page" class="lb-close">Cerrar</a>
-            <img src="images/1806.jpg"/>							
-        </div>		
-        <a href="#image-6">
             <img src="images/mini1806.jpg">
-        </a>			
-    </span>
 </span>
 
 <p>
@@ -128,15 +80,7 @@
 <p>&nbsp;</p>
 
 <span class="image_cen1">				
-    <span class="lb-album">
-        <div class="lb-overlay" id="image-7">
-            <a href="#page" class="lb-close">Cerrar</a>
-            <img src="images/1807.jpg"/>							
-        </div>		
-        <a href="#image-7">
             <img src="images/mini1807.jpg">
-        </a>			
-    </span>
 </span>
 
 <p>
@@ -148,15 +92,7 @@
 <p>&nbsp;</p>
 
 <span class="image_cen1">				
-    <span class="lb-album">
-        <div class="lb-overlay" id="image-8">
-            <a href="#page" class="lb-close">Cerrar</a>
-            <img src="images/1808.jpg"/>							
-        </div>		
-        <a href="#image-8">
             <img src="images/mini1808.jpg">
-        </a>			
-    </span>
 </span>
 
 <p>
@@ -169,15 +105,7 @@
 <p>&nbsp;</p>
 
 <span class="image_cen1">				
-    <span class="lb-album">
-        <div class="lb-overlay" id="image-9">
-            <a href="#page" class="lb-close">Cerrar</a>
-            <img src="images/1809.jpg"/>							
-        </div>		
-        <a href="#image-9">
             <img src="images/mini1809.jpg">
-        </a>			
-    </span>
 </span>
 
 <p>
@@ -191,15 +119,7 @@
 <p>&nbsp;</p>
 
 <span class="image_cen1">				
-    <span class="lb-album">
-        <div class="lb-overlay" id="image-10">
-            <a href="#page" class="lb-close">Cerrar</a>
-            <img src="images/1810.jpg"/>							
-        </div>		
-        <a href="#image-10">
             <img src="images/mini1810.jpg">
-        </a>			
-    </span>
 </span>
 
 <p>
@@ -212,15 +132,7 @@
 <p>&nbsp;</p>
 
 <span class="image_cen1">				
-    <span class="lb-album">
-        <div class="lb-overlay" id="image-11">
-            <a href="#page" class="lb-close">Cerrar</a>
-            <img src="images/1811.jpg"/>							
-        </div>		
-        <a href="#image-11">
             <img src="images/mini1811.jpg">
-        </a>			
-    </span>
 </span>
 
 <p>
@@ -233,15 +145,7 @@
 <p>&nbsp;</p>
 
 <span class="image_cen1">				
-    <span class="lb-album">
-        <div class="lb-overlay" id="image-12">
-            <a href="#page" class="lb-close">Cerrar</a>
-            <img src="images/1812.jpg"/>							
-        </div>		
-        <a href="#image-12">
             <img src="images/mini1812.jpg">
-        </a>			
-    </span>
 </span>
     <strong>Diciembre</strong>
     <br />
