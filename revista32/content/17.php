@@ -9,8 +9,4 @@
   Comenzó a  fotografiar para el periódico <em>Molotov</em> en 2001 mientras estudiaba el ciclo superior de Imagen en Madrid. En 2004,  formó parte del comité fundador del periódico <em>Diagonal</em>. Continuó su formación en la PhotoEscuela de la Agencia  Cover (Madrid) y en la Escuela de Fotografía Motivarte (Buenos Aires). En 2006  fue cofundador de la cooperativa de fotógrafos SUB en Buenos Aires, de la que  sigue siendo parte activa y con la que consiguió varios premios  internacionales. Actualmente publica sus fotografías en medios españoles e  internacionales (Argentina, Ecuador, Colombia, Francia y Alemania), es  coordinador de fotografía en <em>Diagonal</em> y trabaja como fotoperiodista <em>freelance</em>.<br>
   <a href="http://www.olmocalvo.com/" target="_blank">Web</a></p>
 </span>  
- 
- 
-<?
-	include('calvo/calvo.html');
-?>
+<div id="gallery" data-gallery="calvo"></div>
