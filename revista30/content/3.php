@@ -3,23 +3,9 @@
 </p>
 
     <span class="image_cen1">				
-        <span class="lb-album">
-            <div class="lb-overlay" id="image-1">
-                <a href="#page" class="lb-close">Cerrar</a>
-                <img src="images/304.jpg"/>							
-            </div>		
-            <a href="#image-1">
-                <img src="images/mini304.jpg">
-            </a>			
-        </span>
-	</span>
+    	<img src="images/304.jpg"/>							
+    </span>
 <p>
-<!--	<span class="image_cen1" style="text-align:center; padding-bottom:10px;">
-	<img src="images/304.jpg" style="width: 315px;">
-    </span>-->
-    
-
-    
 El <em>Diccionario de la lengua española</em> precisa que el hispanista es la &ldquo;persona que profesa el estudio de lenguas, literaturas o cultura hispánicas, o  está versada en ellos&rdquo;. La definición resulta a simple vista incompleta, pues  nada menciona acerca del carácter usualmente extranjero del hispanista. Pero  cuando nos aproximamos a la figura de <strong>Ian Gibson</strong> (Dublín, 1939), pronto  se descubre que la Real Academia Española ha olvidado la pasión con que este  irlandés nacionalizado español desarrolla su trabajo, así como el rigor  metodológico con que afronta la escritura de sus biografías, escrupulosas hasta  la emoción. </p>
 <p>De entre la  treintena de libros publicados por Gibson destacan los dos volúmenes dedicados  a Federico García Lorca, &ldquo;sin duda alguna, el más misterioso de mis cuatro  biografiados&rdquo; como reconoce en su diálogo con <strong>Esto No Es Una Revista</strong>,  iniciado a través del correo electrónico y completado en un encuentro en el  madrileño barrio de Lavapiés, donde vive desde hace diez años. Se trata de un texto imprescindible si  lo que buscamos es acercarnos al núcleo del poeta granadino. Y también para  conocer y amar España a través de la poesía y el compromiso. Pero como en todos  los grandes asuntos donde interviene lo humano, el <em>caso Lorca </em>también expone su reverso más feroz, el del odio de sus  asesinos y el regodeo de los descendientes de estos, quienes &ldquo;tuvieron cuarenta años para encubrir  la verdad de lo ocurrido y lo hicieron a rajatabla&rdquo;. </p>
 <p>Ian Gibson se  encuentra muy activo por estos días. La publicación reciente de <strong><em>Luis Buñuel. La forja de un cineasta  universal</em></strong><strong> (Aguilar) </strong>ha traído  consigo las correspondientes tareas promocionales. Pero el empeño bien lo  merece. Siete años de  investigación y estudio sobre Luis Buñuel y casi mil páginas editadas hablan de  un proyecto que parece tener bastante de titánico. Aunque la majestuosidad del  proyecto no resulta ni mucho menos caprichosa: &ldquo;Se trata de una vida muy  complicada, muy densa, y quería contarla en profundidad. Creía, y creo ahora,  que merecía la pena: Buñuel es uno de los grandes cineastas mundiales y no  tenía aún su biografía&rdquo;. <br />
@@ -40,15 +26,7 @@ El <em>Diccionario de la lengua española</em> precisa que el hispanista es la &
 
 
     <span class="image_cen1">				
-        <span class="lb-album">
-            <div class="lb-overlay" id="image-2">
-                <a href="#page" class="lb-close">Cerrar</a>
-                <img src="images/302.jpg"/>							
-            </div>		
-            <a href="#image-2">
                 <img src="images/mini302.jpg">
-            </a>			
-        </span>
 	</span>
 
 <p>
@@ -68,15 +46,7 @@ Queda claro que la  del biógrafo, al menos la del biógrafo serio y exigente, n
 
 
     <span class="image_cen1">				
-        <span class="lb-album">
-            <div class="lb-overlay" id="image-3">
-                <a href="#page" class="lb-close">Cerrar</a>
-                <img src="images/303.jpg"/>							
-            </div>		
-            <a href="#image-3">
                 <img src="images/mini303.jpg">
-            </a>			
-        </span>
 	</span>
 
 
@@ -106,15 +76,7 @@ Queda claro que la  del biógrafo, al menos la del biógrafo serio y exigente, n
   &ldquo;Resolución completa&rdquo; no habrá nunca. Se trata del desaparecido más  simbólico de la Guerra Civil: más simbólico, más llorado, más universalmente  querido y admirado; con Cervantes, el mejor embajador español de todos los  tiempos. Tuvieron cuarenta años para encubrir la verdad de lo ocurrido y lo  hicieron a rajatabla. Y allí está todavía, en una cuneta aún no encontrada. Su  propia familia se desentiende del asunto. Está en curso otro intento de  localizarlo –la Junta de Andalucía apoya la iniciativa– pero desde hace meses  no tengo noticia alguna al respecto. Sería mi mayor alegría, antes de morirme,  que por fin hallasen los despojos mortales del poeta. </p>
 
     <span class="image_cen1">				
-        <span class="lb-album">
-            <div class="lb-overlay" id="image-4">
-                <a href="#page" class="lb-close">Cerrar</a>
-                <img src="images/301.jpg"/>							
-            </div>		
-            <a href="#image-4">
                 <img src="images/mini301.jpg" style="width:207px;">
-            </a>			
-        </span>
 	</span>
 
 <p>
