@@ -18,6 +18,4 @@ Aparecen las marcas de un sujeto  sensible y emotivo curtido por los avatares de
   <br />
 Estos trabajos, que se muestran  por primera vez en la galería Mite, suman un eslabón en su producción como  artista. ¡Bienvenido sea!</p>
 
-<?
-	include('maier/index.php');
-?>
+<div id="gallery" data-gallery="maier"></div>
