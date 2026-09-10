@@ -4,7 +4,5 @@
   <br />
   Texto: Juan Fernando García&nbsp;<br />
 Conversaciones Visuales: Ana Gallardo </p>
-<p>&nbsp; </p>
-<?
-	include('muscio/muscio.html');
-?>
+
+  <div id="gallery" data-gallery="muscio"></div>
