@@ -7,9 +7,7 @@
 <p>La pincelada trasluce la gestualidad  del artista en el acto pictórico. La fuerte presencia matérica en sus telas, la  superposición de capas de color y los contrastes lumínicos transmiten la  presencia de lo táctil a partir de lo visual. Como expresa Laura Batkis en el  texto del material desplegable que acompaña la muestra, &ldquo;la obra de Alfredo  Londaibere hoy es necesaria&rdquo;. </p>
 <p>Las varias décadas de trabajo que viene  desarrollando este artista argentino contemporáneo han cristalizado un modo  propio de hacer arte. &ldquo;La muestra de Londaibere se parece a todo lo que viene  haciendo desde siempre con un estilo que es el suyo&rdquo;, resume Batkis. </p>
 <p>Para quien no haya podido asomarse al  mundo pictórico de Londaibere acercándose a la muestra mencionada, pueden visitar  la página del artista: www.londaibere.com</p>
-<?
-	include('londaibere/londaibere.html');
-?>
+<div id="gallery" data-gallery="londaibere"></div>
 <div id="ftn1"><br />
 	Las  citas textuales de Alfredo Londaibere en este artículo corresponden a la  entrevista mantenida en su taller con la autora (21 de abril de 2014). 
 </div>
