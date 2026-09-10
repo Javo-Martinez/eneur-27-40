@@ -8,7 +8,4 @@
 <p>Crecimos con cada  tropiezo, ganamos la preciada experiencia sosteniendo el pabellón de la  independencia –jamás recibimos financiación pública– y, número a número,  procuramos renovar el diseño (en blanco y negro, los colores de la crisis),  ampliar la circulación, y aprovechar los beneficios de las nuevas tecnologías  de la información y la comunicación. Jamás nos detuvimos en la búsqueda de un  contenido de calidad. Jamás cerramos la puerta abierta a nuevos colaboradores  de Tucumán, el país y el mundo; para muchos de ellos, DIXI (He dicho) ha  supuesto la posibilidad de publicar un texto por primera vez.</p>
 <p>Nuestra revista es un  gesto de esperanza. Nada nos gobierna salvo el amor por la lengua de Jorge Luis  Borges y de Miguel de Cervantes. Parida en medio de la precariedad, DIXI (He  dicho) ha demostrado vocación por la continuidad. En esa insistencia tenaz, se  ha ganado un lugar digno en la divulgación de la cultura a la que pertenece. <br>
   Los autores (¡más de 100!) y lectores (más de 2.000 en la edición impresa y  hasta 5.000 en la digital) se han adueñado de ella. Y enhorabuena porque toda  publicación que aspire a influir en su comunidad de referencia vive, vibra,  suda y progresa en la dinámica de escritura y lectura que justifica su  existencia.</p>
-<?
-	include('dixi/dixi.html');
-?>
-
+<div id="gallery" data-gallery="dixi"></div>
