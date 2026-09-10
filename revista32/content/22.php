@@ -5,6 +5,4 @@
     1940 - 2014
 </p>
 
-<?
-	include('giger/giger.html');
-?>
+<div id="gallery" data-gallery="giger"></div>
