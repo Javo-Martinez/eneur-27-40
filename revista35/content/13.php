@@ -2,8 +2,4 @@
   </p>
 <p><strong>Bio. </strong>Emmet Gowin nació en Danville, Virginia, EEUU, en 1941.  A los 16 años, Gowin comienza un camino sin retorno: el uso de la cámara  fotográfica de su padre le abrirá el mundo de lo que elegiría ser. En 1964  contrae matrimonio con Edith Morris, su musa inspiradora. Fue docente de  Princeton durante más de 35 años, hasta su retiro en 2009.</p>
 
-<?
-
-	include('gowin/gowin.html');
-
-?>
+<div id="gallery" data-gallery="gowin"></div>
