@@ -2,7 +2,4 @@
   <br />
   <strong>Víctor Brauner</strong> es, para los que hacemos ENEUR, uno de esos  artistas plásticos que quedaron ocultos tras la potencia de Dalí, Ernst,  Magritte, Tanguy, De Chiricco y Miró. Nació y se crió en una familia judía  rumana cuyo <em>pater familias </em>se  dedicaba a las sesiones de espiritismo a la que el niño Víctor se colaba de  incógnito y que dejaron su marca en su vida y obra. Ni bien entraba la década  de 1930, viajó a París donde vivió en el mismo edificio que Tanguy y poco  después ya estaba a pleno en las filas de André Breton. En 1931 pintó un  autorretrato en el que tenía un ojo enucleado y el párpado herido, casi un  calco de lo que siete años después sería su rostro cuando, intercediendo en una  pelea entre los surrealistas españoles Oscar Domínguez y Esteban Frances, el  primero le arrojó un vaso al segundo, que dio de lleno en el ojo derecho de  <strong>Brauner</strong>. Semejante coincidencia de lateralidad y forma de la herida le abrió el  camino al mito y a la transformación: el apocado <strong>Víctor</strong> paso a ser un sujeto  seguro de sí mismo que portaba el título de clarividente.</p>
 <p><strong>Bio. </strong>Víctor Bruner nació en Piatra Neamtz, Rumania, en 1903.  Después de vivir algunos años con su familia en Viena, vuelve a Bucarest y  estudia en la Academia de Bellas Artes. En 1930 realizó su segundo viaje a  París y se sumó al movimiento surrealista. En 1940 abandonó la Ciudad Luz tras  la invasión nazi, a la que volvió pocos años antes de morir, en 1966.</p>
-
-<?
-	include('brauner/brauner.html');
-?>
+<div id="gallery" data-gallery="brauner"></div>
